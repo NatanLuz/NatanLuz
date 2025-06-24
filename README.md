@@ -9,7 +9,7 @@ Desenvolvedor apaixonado por transformar ideias em código. Projetos focados em 
 * 🌍  I'm based in Viamão
 * 🖥️  See my portfolio at [Meu Portfolio](http://portfolioweb-olive-tau.vercel.app/)
 * ✉️  You can contact me at [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
-* 🧠  I'm learning Java, PostgreSQL
+* 🧠  I'm learning Java and MySQL
 * ⚡  Sou muito fã de esportes em geral.
 
 ### Skills
