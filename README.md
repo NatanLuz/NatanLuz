@@ -3,8 +3,7 @@ Olá ! Sou Natan Da Luz
 
 Desenvolvedor Fullstack
 -----------------------
-
-Desenvolvedor apaixonado por transformar ideias em código. Projetos focados em soluções práticas, design responsivo e boas práticas.
+Desenvolvedor Full Stack especializado em C# e Java, com forte domínio de tecnologias web (HTML, CSS) e bancos de dados relacionais (SQL). Comprometido com a entrega de soluções robustas, manutenção de código limpo e uso eficiente de versionamento com Git/GitHub.
 
 * 🌍  I'm based in Viamão
 * 🖥️  See my portfolio at [Meu Portfolio](http://portfolioweb-olive-tau.vercel.app/)
