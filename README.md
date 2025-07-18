@@ -3,7 +3,7 @@ Olá ! Sou Natan Da Luz
 
 Desenvolvedor Fullstack
 -----------------------
-Olá! Sou Natan Da Luz, estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 2º semestre da graduação.
+Estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 2º semestre da graduação.
 Apaixonado por tecnologia desde cedo, estou constantemente me aperfeiçoando e buscando oportunidades para evoluir na área de desenvolvimento Full-Stack. Estou em busca de oportunidades que me desafiem e permitam aplicar meus conhecimentos na prática, contribuindo com soluções e crescendo profissionalmente.
 
 * 🌍  I'm based in Viamão
