@@ -1,7 +1,8 @@
 Hi ! Natan Da Luz here..
 ====================================================================================================================================
 
-Backend Developer
+Fullstack Developer
+
 -----------------------
 I'm an Information Systems Student, currently in my second semester of my undergraduate degree.
 I've been passionate about technology since I was a child, constantly improving and seeking opportunities to advance in the field of Full-Stack development. I'm looking for opportunities that challenge me and allow me to apply my knowledge in practice, contributing solutions and growing professionally.
