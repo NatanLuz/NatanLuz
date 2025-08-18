@@ -10,7 +10,7 @@ I've been passionate about technology since I was a child, constantly improving 
 * 🌍  I'm based in Santa Catarina
 * 🖥️  See my portfolio at [Meu Portfolio](http://portfolioweb-olive-tau.vercel.app/)
 * ✉️  You can contact me at [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
-* 🧠  I'm learning Java and SQL
+* 🧠  I'm learning Javascript, APIrest, Vue.js
 
 ### Skills
 
