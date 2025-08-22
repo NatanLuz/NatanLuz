@@ -1,7 +1,7 @@
 Hi ! Natan Da Luz here..
 ====================================================================================================================================
 
-Frontend Developer
+#### Frontend Developer
 
 -----------------------
 I'm an Information Systems Student, currently in my second semester of my undergraduate degree.
