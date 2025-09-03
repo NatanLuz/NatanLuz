@@ -1,8 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Natan Da Luz
-=====================================================================
-
-Frontend Developer
-------------------
+## Hello I'm Natan Da Luz Frontend Developer
 
 I'm an Information Systems student and frontend developer focused on creating clean, functional interfaces. I seek real challenges to apply my skills in impactful projects.
 
