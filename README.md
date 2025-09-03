@@ -2,8 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 My name is Natan Da Luz
 
-Frontend Developer
-
 ------------------
 
 I'm an Information Systems Student, currently in my second semester of my undergraduate degree. I've been passionate about technology since I was a child, constantly improving and seeking opportunities to advance in the field of Frontend. I'm looking for opportunities that challenge me and allow me to apply my knowledge in practice, contributing solutions and growing professionally.
