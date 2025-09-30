@@ -1,6 +1,6 @@
-## Hello I'm Natan Da Luz Frontend Developer
+## Hello I'm Natan Da Luz Fullstack Developer
 
-I'm an Information Systems student and frontend developer focused on creating clean, functional interfaces. I seek real challenges to apply my skills in impactful projects.
+I'm an Information Systems student and fullstack developer focused on creating clean, functional interfaces. I seek real challenges to apply my skills in impactful projects.
 
 * 🌍 Based in Santa Catarina, Brazil  
 * ✉️ Contact me at [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)  
