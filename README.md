@@ -42,7 +42,7 @@ Focused on creating clean, functional interfaces and real-world solutions.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <a href="https://github.com/NatanLuz"><img src="https://github-readme-stats.vercel.app/api?username=NatanLuz&show_icons=true&count_private=true&title_color=10b981&text_color=a855f7&icon_color=a855f7&bg_color=27272a&hide_border=true" /></a>
 
 <a href="https://github.com/NatanLuz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanLuz&langs_count=10&title_color=10b981&text_color=a855f7&icon_color=a855f7&bg_color=27272a&hide_border=true&custom_title=Top%20Languages" /></a>
