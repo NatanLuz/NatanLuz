@@ -33,9 +33,8 @@ Focused on creating clean, functional interfaces and real-world solutions.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
----
 
-## 📱 Connect with me
+## Connect with me
 <p align="left">
 <a href="https://www.github.com/NatanLuz"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
 <a href="https://www.linkedin.com/in/natan-da-luz-3156582a2/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
