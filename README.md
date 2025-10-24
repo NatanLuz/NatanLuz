@@ -4,12 +4,12 @@ Focused on creating clean, functional interfaces and real-world solutions.
 
 🌍 Santa Catarina, Brazil  
 ✉️ natandaluz01@gmail.com  
-🧠 Currently learning: JavaScript, PHP, MySQL  
+🧠 Currently learning: JavaScript React, PHP Laravel and Linux System.
 👥 Open to collaborations on open-source projects  
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
