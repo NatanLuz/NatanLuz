@@ -8,7 +8,7 @@ Focused on creating clean, functional interfaces and real-world solutions.
 
 🧠 Currently learning: JavaScript React, PHP Laravel and Linux System.
 
-👥 Open to collaborations on open-source projects  
+👥 Open to collaborations on open-source projects  ^^ invite me !
 
 ---
 
