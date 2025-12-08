@@ -6,7 +6,7 @@ Focused on creating clean, functional interfaces and real-world solutions.
 
 ✉️ natandaluz01@gmail.com  
 
-🧠 Currently learning: JavaScript React, PHP Laravel and Linux System.
+🧠 Currently learning: PHP Laravel.
 
 👥 Open to collaborations on open-source projects  ^^ invite me !
 
