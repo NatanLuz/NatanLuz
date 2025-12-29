@@ -3,9 +3,7 @@
 Focused on creating clean, functional interfaces and real-world solutions.
 
 🌍 Santa Catarina, Brazil  
-
 ✉️ natandaluz01@gmail.com  
-
 🧠 Currently learning: PHP Laravel.
 
 👥 Open to collaborations on open-source projects  ^^ invite me !
