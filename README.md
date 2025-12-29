@@ -11,7 +11,7 @@ Focado em criar interfaces limpas, funcionais e soluções para o mundo real.
 
 ---
 
-## 🛠 Habilidades e Ferramentas
+## Habilidades e Ferramentas
 
 - Linguagens: Python, PHP, SQL
 - Framework: Laravel
