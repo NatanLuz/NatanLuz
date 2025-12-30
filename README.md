@@ -1,7 +1,7 @@
 # Olá, eu sou Natan Da Luz 👋
 
 **Desenvolvedor Fullstack | Estudante de Sistemas de Informação**  
-Focado em criar interfaces limpas, funcionais e soluções para o mundo real.
+Focado em criar interfaces limpas, funcionais e soluções.
 
 🌍 Santa Catarina, Brasil  
 ✉️ natandaluz01@gmail.com  
@@ -13,7 +13,7 @@ Focado em criar interfaces limpas, funcionais e soluções para o mundo real.
 
 ## Habilidades e Ferramentas
 
-- Linguagens: Python, PHP, SQL
+- Linguagens: Python, PHP
 - Framework: Laravel
 - Banco de dados: MySQL
 - Ferramentas: Git, VS Code
@@ -40,8 +40,6 @@ Focado em criar interfaces limpas, funcionais e soluções para o mundo real.
 </p>
 
 ---
-
-## Estatísticas do GitHub
 
 <a href="https://github.com/NatanLuz"><img src="https://github-readme-stats.vercel.app/api?username=NatanLuz&show_icons=true&count_private=true&title_color=10b981&text_color=a855f7&icon_color=a855f7&bg_color=27272a&hide_border=true" /></a>
 
