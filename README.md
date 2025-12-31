@@ -5,7 +5,7 @@ Focado em criar interfaces limpas, funcionais e soluções eficientes.
 
 🌍 Santa Catarina, Brasil  
 ✉️ natandaluz01@gmail.com  
-🧠 Atualmente aprendendo: PHP (Laravel) e Python com foco em aplicações práticas.
+🧠 Atualmente aprendendo: PHP (Laravel) e Python com AI .
 
 👥 Aberto a colaborações em projetos open-source — sinta-se à vontade para entrar em contato.
 
