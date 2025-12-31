@@ -13,7 +13,7 @@ Focado em criar interfaces limpas, funcionais e soluções eficientes.
 
 ## 🛠️ Habilidades e Ferramentas
 
-- **Linguagens:** Python, PHP  
+- **Linguagens:** PHP, Python
 - **Framework:** Laravel  
 - **Banco de Dados:** MySQL  
 - **Ferramentas:** Git, VS Code  
