@@ -44,8 +44,6 @@ Focado em criar interfaces limpas, funcionais e soluções eficientes.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
 <a href="https://github.com/NatanLuz">
   <img src="https://github-readme-stats.vercel.app/api?username=NatanLuz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
 </a>
