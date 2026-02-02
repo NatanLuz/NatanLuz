@@ -3,9 +3,9 @@
 **Desenvolvedor Fullstack | Estudante de Sistemas de Informação**  
 Focado em criar interfaces limpas, funcionais e soluções eficientes.
 
-🌍 Santa Catarina, Brasil  
+🌍 Araranguá - Santa Catarina
 ✉️ natandaluz01@gmail.com  
-🧠 Atualmente aprendendo: PHP (Laravel) e Python com AI .
+🧠 Atualmente aprendendo: PHP (Laravel) e Java.
 
 👥 Aberto a colaborações em projetos open-source — sinta-se à vontade para entrar em contato.
 
