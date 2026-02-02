@@ -1,10 +1,12 @@
 # Olá, eu sou Natan Da Luz 👋
 
-**Desenvolvedor Fullstack | Estudante de Sistemas de Informação**  
+**Desenvolvedor Back-end | Estudante de Sistemas de Informação**  
 Focado em criar interfaces limpas, funcionais e soluções eficientes.
 
 🌍 Araranguá - Santa Catarina
-✉️ natandaluz01@gmail.com  
+
+✉️ natandaluz01@gmail.com
+
 🧠 Atualmente aprendendo: PHP (Laravel) e Java.
 
 👥 Aberto a colaborações em projetos open-source — sinta-se à vontade para entrar em contato.
