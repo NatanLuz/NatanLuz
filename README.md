@@ -13,23 +13,9 @@ Focado em criar interfaces limpas, funcionais e soluções eficientes.
 
 ## 🛠️ Habilidades e Ferramentas
 
-- **Linguagens:** PHP, Python
-- **Framework:** Laravel  
-- **Banco de Dados:** MySQL  
-- **Ferramentas:** Git, VS Code  
+Stack: PHP, Java
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" />
-  <img width="12" />
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" /> <img width="12" /> <img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
-</div>
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" /> </div>
 
 ---
 
