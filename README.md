@@ -2,7 +2,7 @@
 
 ## 💻 Desenvolvedor Backend
 
-Sou Desenvolvedor Back-end Júnior com foco em desenvolvimento de aplicações web utilizando **PHP (Laravel)** e **Python**, sempre buscando boas práticas, código limpo e aprendizado contínuo.
+Sou Desenvolvedor Back-end Júnior com foco em desenvolvimento utilizando **PHP (Laravel)** e **Python**, sempre buscando boas práticas, código limpo e aprendizado contínuo.
 
 📍 Araranguá - Santa Catarina - Brasil  
 ✉️ Contato: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)  
