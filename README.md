@@ -12,7 +12,7 @@ Contato: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
 
 ## 🧠 Atualmente estudando
 
-- Desenvolvimento avançado com **PHP e MySQL**
+- Desenvolvimento avançado com **PHP
 - **Linux** e administração de sistemas
 - Boas práticas de arquitetura e organização de projetos
 
