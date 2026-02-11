@@ -5,13 +5,14 @@
 Sou Desenvolvedor Back-end Júnior com foco em desenvolvimento utilizando **PHP (Laravel)** e **Python**, sempre buscando boas práticas, código limpo e aprendizado contínuo.
 
 📍 Araranguá - Santa Catarina - Brasil  
-✉️ Contato: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)  
+
+Contato: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)  
 
 ---
 
 ## 🧠 Atualmente estudando
 
-- Desenvolvimento avançado com **PHP e Laravel**
+- Desenvolvimento avançado com **PHP e MySQL**
 - **Linux** e administração de sistemas
 - Boas práticas de arquitetura e organização de projetos
 
