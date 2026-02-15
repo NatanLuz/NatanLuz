@@ -12,7 +12,7 @@ Contato: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
 
 ## 🧠 Atualmente estudando
 
-- Desenvolvimento avançado com **PHP
+- Desenvolvimento avançado com **PHP**
 - **Linux** e administração de sistemas
 - Boas práticas de arquitetura e organização de projetos
 
@@ -20,7 +20,7 @@ Contato: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
 
 ## 🤝 Colaboração
 
-Estou aberto a participar de projetos **Open Source** e oportunidades que contribuam para meu crescimento profissional e troca de conhecimento.
+Estou aberto a participar de projetos **Open Source** e oportunidades que contribuam para meu crescimento profissional e troca de conhecimento, só me chamar no LinkedIn ou pelo meu e-mail.
 
 ---
 
