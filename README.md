@@ -1,4 +1,4 @@
-# 👋 Olá! Meu nome é Natan Da Luz
+## Olá! Meu nome é Natan Da Luz
 
 ## 💻 Desenvolvedor Backend
 
@@ -14,7 +14,6 @@ Contato: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
 
 - Desenvolvimento avançado com **PHP**
 - **Linux** e administração de sistemas
-- Boas práticas de arquitetura e organização de projetos
 
 ---
 
