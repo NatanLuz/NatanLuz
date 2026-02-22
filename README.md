@@ -16,15 +16,6 @@ Busco sempre boas práticas, código limpo e aprendizado contínuo.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=NatanLuz&show_icons=true&count_private=true&title_color=444e59&text_color=a855f7&icon_color=ffffff&bg_color=171717&hide_border=true)](https://github.com/NatanLuz)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanLuz&langs_count=8&title_color=444e59&text_color=a855f7&bg_color=171717&hide_border=true)](https://github.com/NatanLuz)
-
-*Obrigado por visitar meu perfil!* 🙌
-
----
-
 ## 🧠 Em estudo
 
 - Desenvolvimento avançado com **PHP**
@@ -51,3 +42,9 @@ Pode me chamar no [LinkedIn](https://www.linkedin.com/in/natan-da-luz-3156582a2/
   <a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code"/></a>
 </p>
+
+---
+
+*Obrigado por visitar meu perfil!* 🙌
+
+---
