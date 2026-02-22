@@ -4,7 +4,7 @@
 
 ### 💻 Desenvolvedor Backend
 
-Desenvolvedor **Back-end Júnior** com foco em **PHP (Laravel)** e **Python**.
+Com foco em **PHP (Laravel)** e **Python**.
 Busco sempre boas práticas, código limpo e aprendizado contínuo.
 
 📍 **Araranguá, Santa Catarina — Brasil**
