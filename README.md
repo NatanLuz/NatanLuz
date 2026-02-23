@@ -30,7 +30,7 @@ Pode me chamar no [LinkedIn](https://www.linkedin.com/in/natan-da-luz-3156582a2/
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas 🚀 
 
 <p align="center">
   <a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP"/></a>
