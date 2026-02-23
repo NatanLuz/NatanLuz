@@ -16,14 +16,14 @@ Busco sempre boas práticas, código limpo e aprendizado contínuo.
 
 ---
 
-## 🧠 Em estudo
+## Em estudo 🧠 
 
 - Desenvolvimento avançado com **PHP**
 - **Linux** e administração de sistemas
 
 ---
 
-## 🤝 Colaboração
+##  Colaboração 🤝
 
 Estou aberto a participar de projetos **open source** e a oportunidades que contribuam para meu crescimento e troca de conhecimento.
 Pode me chamar no [LinkedIn](https://www.linkedin.com/in/natan-da-luz-3156582a2/) ou por [e-mail](mailto:natandaluz01@gmail.com).
