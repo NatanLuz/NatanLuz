@@ -43,8 +43,3 @@ Pode me chamar no [LinkedIn](https://www.linkedin.com/in/natan-da-luz-3156582a2/
   <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code"/></a>
 </p>
 
----
-
-*Obrigado por visitar meu perfil!* 🙌
-
----
