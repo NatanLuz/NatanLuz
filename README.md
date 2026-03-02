@@ -34,7 +34,6 @@ Pode me chamar no [LinkedIn](https://www.linkedin.com/in/natan-da-luz-3156582a2/
 
 <p align="center">
   <a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP"/></a>
-  <a href="https://laravel.com/" target="_blank" title="Laravel"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel"/></a>
   <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python"/></a>
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5"/></a>
   <a href="https://www.w3.org/TR/CSS/" target="_blank" title="CSS3"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3"/></a>
