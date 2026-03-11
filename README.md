@@ -7,7 +7,7 @@
 Com foco em **PHP (Laravel)** e **Python**.
 Busco sempre boas práticas, código limpo e aprendizado contínuo.
 
-Santa Catarina — Brasil**
+## Santa Catarina — Brasil
 
 [![Email](https://img.shields.io/badge/Email-natandaluz01%40gmail.com-444e59?style=flat-square&logo=gmail&logoColor=white)](mailto:natandaluz01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natan%20Da%20Luz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-da-luz-3156582a2/)
