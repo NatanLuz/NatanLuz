@@ -4,7 +4,7 @@
 
 ## 💻 Desenvolvedor Backend
 
-Com foco em **PHP (Laravel)** e **Python**.
+Com foco em **PHP** e **Python**.
 Busco sempre boas práticas, código limpo e aprendizado contínuo.
 
 ## Santa Catarina — Brasil
