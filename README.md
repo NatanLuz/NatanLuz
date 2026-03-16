@@ -2,8 +2,7 @@
 
 # Natan Da Luz
 
-### Desenvolvedor Backend (PHP • Python • APIs REST)
-
+### Desenvolvedor Backend PHP | Python | APIs & Automação | Docker | n8n
 Focado em APIs, integrações entre sistemas e automações backend.
 
 [![Email](https://img.shields.io/badge/Email-natandaluz01%40gmail.com-444e59?style=flat-square&logo=gmail&logoColor=white)](mailto:natandaluz01@gmail.com)
