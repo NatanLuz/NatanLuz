@@ -76,6 +76,10 @@ Stack: **Node.js • Web Scraping • API REST**
 
 ---
 
+
+
+![NatanLuz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatanLuz&theme=dracula&hide_border=true)
+
 ## Contato
 
 - 📧 Email: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
