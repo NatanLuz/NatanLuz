@@ -1,47 +1,41 @@
-## Olá tudo bem ? me chamo Natan Da Luz tenho 24 anos
+# Natan Da Luz
 
-## Sobre mim
+## Backend Developer | PHP
 
-Sou desenvolvedor backend com foco em PHP, especializado na construção de sistemas e aplicações orientadas a regras de negócio. Possuo experiência no desenvolvimento de soluções completas, incluindo autenticação, modelagem de banco de dados e organização de código com separação de responsabilidades. Já desenvolvi sistemas utilizados em ambiente real, com foco em segurança, previsibilidade e eficiência operacional. Tenho conhecimento em frontend para integração de interfaces, mas meu foco principal é backend.
+## Sobre Mim
+
+Desenvolvedor backend com foco em PHP, especializado em sistemas orientados a regras de negócio. Experiência em arquitetura de aplicações, modelagem relacional, autenticação segura e boas práticas de segurança (SQL Injection e XSS). Atuo com desenvolvimento de soluções previsíveis, manuteníveis e voltadas à eficiência operacional.
 
 ## Tecnologias
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-<a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
+- PHP
+- Laravel
+- MySQL
+- Docker
+- Linux(Em aprendizado)
+- HTML, CSS e JavaScript (integração frontend)
 
-## 💼 Minha Experiência
+## Experiencia
 
-### Desenvolvedor Web — CorteAzulTea 
-### (Ago 2025 / Fev 2026)
+### Desenvolvedor Web | Projeto Institucional CorteAzulTea
 
-- Desenvolvimento de site institucional com foco em acessibilidade e usabilidade
-- Interface responsiva com HTML, CSS, Tailwind e JavaScript
-- Integração com WhatsApp, Instagram e mapas
-- Estruturação de conteúdo para apresentação de serviços
+**Ago 2025 - Fev 2026**
 
-### Desenvolvedor Backend PHP — Sistema para Petshop e Clínica Veterinária 
-### (Outubro 2025  /  Dez 2025)
+- Desenvolvimento de website institucional com foco em acessibilidade e usabilidade.
+- Implementação de interface responsiva com HTML, CSS, Tailwind CSS e JavaScript.
+- Integração de canais externos (WhatsApp, Instagram e mapas).
 
+### Desenvolvedor Backend PHP | Sistema de Gestão para Petshop e Clínica Veterinária
 
-- Desenvolvimento de sistema completo com PHP e MySQL
-- Modelagem de banco de dados relacional
-- Implementação de autenticação segura (bcrypt)
-- Proteção contra SQL Injection e XSS
-- Criação de dashboard com gráficos (Chart.js)
+**Out 2025 - Dez 2025**
+
+- Desenvolvimento de sistema backend com PHP e MySQL.
+- Modelagem de banco de dados relacional e estruturação de regras de negócio.
+- Implementação de autenticação segura com hash bcrypt.
+- Aplicação de práticas de segurança contra SQL Injection e XSS.
+- Desenvolvimento de dashboard de acompanhamento com Chart.js.
 
 ## Contato
 
-<p align="left">
-<a href="mailto:natandaluz01@gmail.com"><img src="https://img.shields.io/badge/Email-natandaluz01%40gmail.com-444e59?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/natan-da-luz"><img src="https://img.shields.io/badge/LinkedIn-Natan%20Da%20Luz-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+- Email: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
+- LinkedIn: [linkedin.com/in/natan-da-luz](https://linkedin.com/in/natan-da-luz)
