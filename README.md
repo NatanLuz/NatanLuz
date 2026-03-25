@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Backend PHP | MySQL | SQL | Docker | APIs REST | Sistemas
 
-Focado no desenvolvimento backend com PHP e MySQL, com construção de sistemas web voltados para uso real.
+Focado no desenvolvimento backend com PHP.
 
 [![Email](https://img.shields.io/badge/Email-natandaluz01%40gmail.com-444e59?style=flat-square&logo=gmail&logoColor=white)](mailto:natandaluz01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natan%20Da%20Luz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/natan-da-luz)
