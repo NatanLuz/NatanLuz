@@ -1,8 +1,9 @@
-# Natan Da Luz
+# 👨‍💻 Natan Da Luz
 
 ## Backend Developer | PHP
 
-## Sobre Mim
+## 👤 Sobre Mim
+
 Sou desenvolvedor backend com foco em PHP, especializado na construção de sistemas e aplicações orientadas a regras de negócio.
 
 Possuo experiência no desenvolvimento de soluções completas, incluindo autenticação, modelagem de banco de dados e organização de código com separação de responsabilidades.
@@ -11,7 +12,7 @@ Já desenvolvi sistemas utilizados em ambiente real, com foco em segurança, pre
 
 Tenho conhecimento em front-end para integração de interfaces, mas meu foco principal é backend.
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - PHP
 - Laravel
@@ -20,9 +21,9 @@ Tenho conhecimento em front-end para integração de interfaces, mas meu foco pr
 - Linux (Em aprendizado)
 - HTML, CSS e JavaScript (integração frontend)
 
-## Experiencia
+## 💼 Experiência
 
-### Desenvolvedor Web | Projeto Institucional CorteAzulTea
+### 🌐 Desenvolvedor Web | Projeto Institucional CorteAzulTea
 
 **Ago 2025 - Fev 2026**
 
@@ -30,7 +31,7 @@ Tenho conhecimento em front-end para integração de interfaces, mas meu foco pr
 - Implementação de interface responsiva com HTML, CSS, Tailwind CSS e JavaScript.
 - Integração de canais externos (WhatsApp, Instagram e mapas).
 
-### Desenvolvedor Backend PHP | Sistema de Gestão para Petshop e Clínica Veterinária
+### ⚙️ Desenvolvedor Backend PHP | Sistema de Gestão para Petshop e Clínica Veterinária
 
 **Out 2025 - Dez 2025**
 
@@ -40,7 +41,7 @@ Tenho conhecimento em front-end para integração de interfaces, mas meu foco pr
 - Aplicação de práticas de segurança contra SQL Injection e XSS.
 - Desenvolvimento de dashboard de acompanhamento com Chart.js.
 
-## Contato
+## 📫 Contato
 
 - Email: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
 - LinkedIn: [linkedin.com/in/natan-da-luz](https://linkedin.com/in/natan-da-luz)
