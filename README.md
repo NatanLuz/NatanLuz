@@ -2,9 +2,9 @@
 
 # Natan Da Luz
 
-### Desenvolvedor Backend PHP | Python | APIs & Automação | Docker | n8n
+### Desenvolvedor Backend PHP | MySQL | SQL | Docker | APIs REST | Sistemas
 
-Focado em APIs, integrações entre sistemas e automações backend.
+Focado no desenvolvimento backend com PHP e MySQL, com construção de sistemas web voltados para uso real.
 
 [![Email](https://img.shields.io/badge/Email-natandaluz01%40gmail.com-444e59?style=flat-square&logo=gmail&logoColor=white)](mailto:natandaluz01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natan%20Da%20Luz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/natan-da-luz)
@@ -15,73 +15,74 @@ Focado em APIs, integrações entre sistemas e automações backend.
 
 ## Sobre mim
 
-Sou desenvolvedor backend focado em criação de APIs REST, integrações entre sistemas e automação de processos.
+Olá sou Desenvolvedor backend com foco em PHP, atuando na construção de sistemas orientados a regras de negócio. Tenho experiência no desenvolvimento de sistemas web com autenticação de usuários, modelagem de banco de dados MySQL e organização de código com separação de responsabilidades. Já desenvolvi soluções utilizadas em ambiente real para organização de atendimentos, controle de dados e redução de inconsistências operacionais.
 
-Tenho experiência construindo soluções para estudo e para aplicações reais, sempre buscando boas práticas, código limpo e aprendizado contínuo.
+Principais competências:
 
-- Atuação principal em backend com **PHP** e **Python**
-- Experiência com modelagem de banco de dados e integrações entre serviços
-- Interesse em arquitetura backend e automações com APIs
+- Desenvolvimento backend com PHP
+- Modelagem de banco de dados MySQL
+- Implementação de autenticação e segurança (bcrypt, prepared statements e prevenção de XSS)
+- Estruturação de sistemas com foco em regras de negócio
+
+Possuo conhecimento em frontend (HTML, CSS e JavaScript, incluindo Chart.js) para integração de interfaces, mantendo meu foco principal no backend.
+
+Atualmente, aprofundo meus estudos em Laravel para evoluir na construção de aplicações mais estruturadas e escaláveis.
 
 ---
 
 ## Tecnologias
 
-Stack atual voltado para backend, APIs REST e automação de processos.
-
 <p align="center">
-	<a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP"/></a>
-	<a href="https://www.python.org/" target="_blank" title="Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python"/></a>
-	<a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL"/></a>
-	<a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux"/></a>
-	<a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code"/></a>
+	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" alt="PHP" />
+	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" alt="MySQL" />
+	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" alt="JavaScript" />
+	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" alt="HTML5" />
+	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" alt="CSS3" />
 </p>
-
-Principais ferramentas: Git, Docker, Linux e VS Code.
 
 ---
 
 ## Projetos em destaque
 
-### 🐾 Sistema para Petshop & Clínica Veterinária
+### 🐾 PetShop System (Projeto principal)
 
-Sistema de gestão para petshops e clínicas veterinárias, com:
+Sistema de gestão e agendamento desenvolvido para uso real em petshop, com foco em backend e regras de negócio.
 
-- agendamento de serviços
-- cadastro de clientes e pets
-- controle de atendimentos
+- Controle de clientes, pets e serviços
+- Fluxo de atendimento (Agendado → Em atendimento → Concluído)
+- Dashboard com métricas operacionais
+- Autenticação segura com bcrypt
+- Proteção contra SQL Injection e XSS
 
-Stack: **PHP • MySQL • MVC**
+Stack: **PHP • MySQL • JavaScript • HTML • CSS • Chart.js**
 
-### 🤖 Botpress + n8n Automação
-
-Automação com chatbot e orquestração de fluxos usando webhooks e integrações entre serviços.
-
-Stack: **Botpress • n8n • APIs REST • Docker**
+---
 
 ### 🛒 Amazon Scraper API
 
-API para coleta automatizada de dados de produtos da Amazon para análise e monitoramento.
+Projeto secundário de API para coleta e filtragem de produtos com base em avaliação e preço.
 
-Stack: **Node.js • Web Scraping • API REST**
+- Web scraping estruturado
+- API REST feita com Node.js
+- Filtros por rating e preço
+- Cache e otimização de performance
+
+Stack: **Node.js • Express • JSDOM**
 
 ---
 
 ## Atualmente estudando
 
-- Arquitetura de software para backend
-- Backend avançado com PHP
-- Automação com APIs e integrações entre serviços
-- Docker, deploy de aplicações e n8n
+- Laravel
+- Arquitetura de software
+- APIs REST
+- Boas práticas de segurança e organização de código
+- Linux
 
 ---
 
-
-
-![NatanLuz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatanLuz&theme=dracula&hide_border=true)
-
 ## Contato
 
-- 📧 Email: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/natan-da-luz](https://linkedin.com/in/natan-da-luz)
-- 🌐 Portfólio: [portfolioeb-olive-tau.vercel.app](https://portfolioeb-olive-tau.vercel.app/)
+- 📧 Email: natandaluz01@gmail.com
+- 💼 LinkedIn: linkedin.com/in/natan-da-luz
+- 🌐 Portfólio: https://portfolioeb-olive-tau.vercel.app/
