@@ -12,7 +12,7 @@ Desenvolvedor backend com foco em PHP, especializado em sistemas orientados a re
 - Laravel
 - MySQL
 - Docker
-- Linux(Em aprendizado)
+- Linux (Em aprendizado)
 - HTML, CSS e JavaScript (integração frontend)
 
 ## Experiencia
