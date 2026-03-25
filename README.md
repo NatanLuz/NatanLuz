@@ -18,12 +18,13 @@ Tenho conhecimento em front-end para integração de interfaces, mas meu foco pr
 - Laravel
 - MySQL
 - Docker
-- Linux (Em aprendizado)
+- Sistema Linux (Em aprendizado)
 - HTML, CSS e JavaScript (integração frontend)
 
 ## 💼 Experiência
 
 ### 🌐 Desenvolvedor Web | Projeto Institucional CorteAzulTea
+
 
 **Ago 2025 - Fev 2026**
 
@@ -33,6 +34,7 @@ Tenho conhecimento em front-end para integração de interfaces, mas meu foco pr
 
 ### ⚙️ Desenvolvedor Backend PHP | Sistema de Gestão para Petshop e Clínica Veterinária
 
+
 **Out 2025 - Dez 2025**
 
 - Desenvolvimento de sistema backend com PHP e MySQL.
@@ -41,7 +43,7 @@ Tenho conhecimento em front-end para integração de interfaces, mas meu foco pr
 - Aplicação de práticas de segurança contra SQL Injection e XSS.
 - Desenvolvimento de dashboard de acompanhamento com Chart.js.
 
-## 📫 Contato
+## Entre em contato comigo :
 
 - Email: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
 - LinkedIn: [linkedin.com/in/natan-da-luz](https://linkedin.com/in/natan-da-luz)
