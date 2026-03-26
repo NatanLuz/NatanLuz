@@ -1,6 +1,6 @@
 ## Natan Da Luz 👨‍💻
 
-## Backend Developer | PHP
+##  Desenvolvedor Backend PHP | Laravel | APIs REST | MySQL | SQL | Docker.
 
 ## 👤 Sobre Mim
 
