@@ -4,7 +4,7 @@
 
 ## 👤 Sobre Mim
 
-Sou desenvolvedor backend com foco em PHP, especializado na construção de sistemas e aplicações orientadas a regras de negócio.
+Sou desenvolvedor backend com foco em PHP, especializado na construção de sistemas web/sistemas e aplicações orientadas a regras de negócio.
 
 Possuo experiência no desenvolvimento de soluções completas, incluindo autenticação, modelagem de banco de dados e organização de código com separação de responsabilidades.
 
