@@ -19,7 +19,7 @@ Tenho conhecimento em front-end para integração de interfaces, mas meu foco pr
 - MySQL
 - Docker
 - Sistema Linux (Em aprendizado)
-- HTML, CSS e JavaScript (integração frontend)
+- HTML, CSS e JavaScript (apenas integração frontend)
 
 ## 💼 Experiência
 
