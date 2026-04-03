@@ -24,17 +24,16 @@ Tenho conhecimento em front-end para integração de interfaces, mas meu foco pr
 
 ### 🌐 Desenvolvedor Web | Projeto Institucional CorteAzulTea
 
-
 **Ago 2025 - Fev 2026**
 
 - Desenvolvimento de website institucional com foco em acessibilidade e usabilidade.
 - Implementação de interface responsiva com HTML, CSS, Tailwind CSS e JavaScript.
 - Integração de canais externos (WhatsApp, Instagram e mapas).
 
+
 ### ⚙️ Desenvolvedor Backend PHP | Sistema de Gestão para Petshop e Clínica Veterinária
 
-
-**Out 2025 - Dez 2025**
+**Out 2025 - Fev 2026**
 
 - Desenvolvimento de sistema backend com PHP e MySQL.
 - Modelagem de banco de dados relacional e estruturação de regras de negócio.
@@ -42,7 +41,7 @@ Tenho conhecimento em front-end para integração de interfaces, mas meu foco pr
 - Aplicação de práticas de segurança contra SQL Injection e XSS.
 - Desenvolvimento de dashboard de acompanhamento com Chart.js.
 
-## Entre em contato comigo :
+## Entre em contato comigo pelo meu:
 
 - Email: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
 - LinkedIn: [linkedin.com/in/natan-da-luz](https://linkedin.com/in/natan-da-luz)
