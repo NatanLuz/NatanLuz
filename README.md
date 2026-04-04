@@ -10,7 +10,7 @@ Possuo experiência no desenvolvimento de soluções completas, incluindo autent
 
 Já desenvolvi sistemas utilizados em ambiente real, com foco em segurança, previsibilidade e eficiência operacional.
 
-Tenho conhecimento em front-end para integração de interfaces, mas meu foco principal é backend.
+Tenho conhecimento em front-end para integração de interfaces.
 
 ## 🛠️ Tecnologias
 
