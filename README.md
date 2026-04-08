@@ -17,7 +17,6 @@ Tenho conhecimento em front-end para integração de interfaces.
 - PHP
 - Laravel
 - MySQL
-- Docker
 - Sistema Linux (Em aprendizado)
 
 ## 💼 Experiência
