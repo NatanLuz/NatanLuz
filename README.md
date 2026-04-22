@@ -2,7 +2,7 @@
 
 ##  Desenvolvedor Backend 
 
-## 👤 Sobre Mim :
+## 👤 Sobre Mim
 
 Sou desenvolvedor backend com foco em PHP, especializado na construção de sistemas web/sistemas e aplicações orientadas a regras de negócio.
 
