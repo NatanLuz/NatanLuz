@@ -23,16 +23,12 @@ Possuo conhecimento em front-end para integração de interfaces.
 
 ### 🌐 Desenvolvedor Web | Projeto Institucional CorteAzulTea
 
-**Ago 2025 - Fev 2026**
-
 - Desenvolvimento de website institucional com foco em acessibilidade e usabilidade.
 - Implementação de interface responsiva com HTML, CSS, Tailwind CSS e JavaScript.
 - Integração de canais externos (WhatsApp, Instagram e mapas).
 
 
 ### ⚙️ Desenvolvedor Backend PHP | Sistema de Gestão para Petshop e Clínica Veterinária
-
-**Out 2025 - Fev 2026**
 
 - Desenvolvimento de sistema backend com PHP e MySQL.
 - Modelagem de banco de dados relacional e estruturação de regras de negócio.
