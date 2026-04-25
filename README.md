@@ -14,10 +14,10 @@ Possuo conhecimento em front-end para integração de interfaces.
 
 ## 🛠️ Tecnologias
 
-- PHP
-- Laravel
-- MySQL
-- Sistema Linux (Em aprendizado)
+- *PHP*
+- *Laravel*
+- *MySQL*
+- *Sistema Linux* (Em aprendizado)
 
 ## 💼 Minha Experiência
 
