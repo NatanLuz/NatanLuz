@@ -21,14 +21,14 @@ Possuo conhecimento em front-end para integração de interfaces.
 
 ## 💼 Minha Experiência
 
-### 🌐 Desenvolvedor Web | Projeto Institucional CorteAzulTea
+## 🌐 Desenvolvedor Web | Projeto Institucional CorteAzulTea
 
 - Desenvolvimento de website institucional com foco em acessibilidade e usabilidade.
 - Implementação de interface responsiva com HTML, CSS, Tailwind CSS e JavaScript.
 - Integração de canais externos (WhatsApp, Instagram e mapas).
 
 
-### ⚙️ Desenvolvedor Backend PHP | Sistema de Gestão para Petshop e Clínica Veterinária
+## ⚙️ Desenvolvedor Backend PHP | Sistema de Gestão para Petshop e Clínica Veterinária
 
 - Desenvolvimento de sistema backend com PHP e MySQL.
 - Modelagem de banco de dados relacional e estruturação de regras de negócio.
@@ -39,4 +39,5 @@ Possuo conhecimento em front-end para integração de interfaces.
 ## Contato
 
 - Email: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
+
 - LinkedIn: [linkedin.com/in/natan-da-luz](https://linkedin.com/in/natan-da-luz)
