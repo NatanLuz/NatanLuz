@@ -12,7 +12,7 @@ Já desenvolvi sistemas utilizados em ambiente real, com foco em segurança, pre
 
 Possuo conhecimento em front-end para integração de interfaces.
 
-## 🛠️ Tecnologias
+## 🛠️ Minha STACK
 
 - *PHP*
 - *Laravel*
