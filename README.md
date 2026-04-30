@@ -12,7 +12,7 @@ Já desenvolvi sistemas utilizados em ambiente real, com foco em segurança, pre
 
 Possuo conhecimento em front-end para integração de interfaces.
 
-## 🛠️ Minha STACK
+## 🛠️ Tecnologias
 
 - *PHP*
 - *Laravel*
@@ -25,7 +25,7 @@ Possuo conhecimento em front-end para integração de interfaces.
 
 - Desenvolvimento de website institucional com foco em acessibilidade e usabilidade.
 - Implementação de interface responsiva com HTML, CSS, Tailwind CSS e JavaScript.
-- Integração de canais externos (WhatsApp, Instagram e mapas).
+- Integração de canais externos (WhatsApp, Instagram e Google Maps).
 
 
 ## ⚙️ Desenvolvedor Backend PHP | Sistema de Gestão para Petshop e Clínica Veterinária
