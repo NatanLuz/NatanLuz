@@ -1,6 +1,4 @@
-## Olá prazer, me chamo Natan Da Luz 👨‍💻
-
-##  Desenvolvedor Backend 
+## Olá ! Me chamo Natan Da Luz..
 
 ## 👤 Sobre Mim
 
