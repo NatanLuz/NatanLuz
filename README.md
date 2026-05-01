@@ -6,7 +6,7 @@ Sou desenvolvedor backend com foco em PHP, especializado na construção de sist
 
 Possuo experiência no desenvolvimento de soluções completas, incluindo autenticação, modelagem de banco de dados e organização de código com separação de responsabilidades.
 
-Já desenvolvi sistemas utilizados em ambiente real, com foco em segurança, previsibilidade e eficiência operacional.
+Desenvolvi sistemas utilizados em ambiente real, com foco em segurança, previsibilidade e eficiência operacional.
 
 Possuo conhecimento em front-end para integração de interfaces.
 
