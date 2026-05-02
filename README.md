@@ -1,4 +1,4 @@
-## Olá ! Me chamo Natan Da Luz..
+## Olá ! Me chamo Natan Da Luz
 
 ## 👤 Sobre Mim
 
