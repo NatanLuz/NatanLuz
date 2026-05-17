@@ -25,7 +25,7 @@ Possuo conhecimento em front-end para integração de interfaces.
 
 ## ⚙️ Desenvolvedor Backend PHP | PetSystem Sistema de Gestão para Petshop e Clínica Veterinária
 
-- Desenvolvimento de sistema backend com PHP e MySQL.
+- Desenvolvimento de sistema com PHP e MySQL.
 - Modelagem de banco de dados relacional e estruturação de regras de negócio.
 - Implementação de autenticação segura com hash bcrypt.
 - Aplicação de práticas de segurança contra SQL Injection e XSS.
