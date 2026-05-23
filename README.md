@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou desenvolvedor backend com foco em PHP, Laravel, especializado na construção de sistemas web/sistemas e aplicações orientadas a regras de negócio.
+Sou Desenvolvedor Backend com foco em PHP, Laravel, especializado na construção de sistemas web/sistemas e aplicações orientadas a regras de negócio.
 Possuo experiência no desenvolvimento de soluções completas, incluindo autenticação, modelagem de banco de dados e organização de código com separação de responsabilidades.
 Desenvolvi sistemas utilizados em ambiente real, com foco em segurança, previsibilidade e eficiência operacional.
 Possuo conhecimento em front-end para integração de interfaces.
