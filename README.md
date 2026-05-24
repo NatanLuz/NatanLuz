@@ -1,6 +1,6 @@
 # Natan Da Luz
 
-## Introdução
+## Sobre Mim
 
 Desenvolvedor Backend com foco em PHP e Laravel, orientado a sistemas reais e regras de negócio. Atuo na concepção e implementação de APIs REST, modelagem relacional (MySQL) e na organização de código para manutenção e previsibilidade operacional. Priorizo separação de responsabilidades, arquitetura em camadas e práticas que favoreçam segurança e operação previsível.
 
