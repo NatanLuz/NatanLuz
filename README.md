@@ -11,8 +11,9 @@ Desenvolvedor Backend com foco em PHP e Laravel, orientado a sistemas reais e re
 - APIs REST
 - MySQL
 - HTML, CSS (Tailwind CSS), JavaScript
-- Git, GitHub
+- Git
 - Linux
+- Windows
 
 ## 💼 Projetos em Destaque
 
