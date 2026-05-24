@@ -1,6 +1,4 @@
-## Natan Da Luz
-
-## Desenvolvedor Backend
+## Natan Da Luz Desenvolvedor Backend
 
 Sou Desenvolvedor Backend em evolução, com foco em sistemas reais orientados a regras de negócio. Atuo na construção de APIs REST, modelagem relacional com MySQL e organização arquitetural com separação de responsabilidades para manter código previsível, escalável e fácil de manter.
 
