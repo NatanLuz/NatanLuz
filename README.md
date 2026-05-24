@@ -1,7 +1,7 @@
 ## Olá Bem Vindo !
 ## Me chamo Natan Da Luz Cândido
 
-## Sobre Mim
+## Sobre Mim..
 
 Sou Desenvolvedor Backend com foco em PHP/Laravel, especializado na construção de sistemas web/sistemas e aplicações orientadas a regras de negócio.
 Possuo experiência no desenvolvimento de soluções completas, incluindo autenticação, modelagem de banco de dados e organização de código com separação de responsabilidades.
@@ -22,7 +22,6 @@ Possuo conhecimento em front-end para integração de interfaces.
 - Desenvolvimento de website institucional com foco em acessibilidade e usabilidade.
 - Implementação de interface responsiva com HTML, CSS, Tailwind CSS e JavaScript.
 - Integração de canais externos (WhatsApp, Instagram e Google Maps).
-
 
 ## ⚙️ Desenvolvedor Backend Freelancer PHP | (PetSystem) Sistema de Gestão para Petshop/Clínica Veterinária
 
