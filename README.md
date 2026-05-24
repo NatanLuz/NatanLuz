@@ -16,7 +16,7 @@ Possuo conhecimento em front-end para integração de interfaces.
 
 ## 💼 Minha Experiência
 
-## 🌐 Desenvolvedor Web | Site Institucional CorteAzulTea
+## 🌐 Desenvolvedor Web Freelancer | Site Institucional CorteAzulTea
 
 - Desenvolvimento de website institucional com foco em acessibilidade e usabilidade.
 - Implementação de interface responsiva com HTML, CSS, Tailwind CSS e JavaScript.
