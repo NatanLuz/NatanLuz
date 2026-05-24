@@ -1,80 +1,90 @@
 # Natan Da Luz
 
-## Sobre Mim
+Desenvolvedor Backend | PHP • Laravel
 
-Desenvolvedor Backend com foco em PHP e Laravel, orientado a sistemas reais e regras de negócio. Atuo na concepção e implementação de APIs REST, modelagem relacional (MySQL) e na organização de código para manutenção e previsibilidade operacional. Priorizo separação de responsabilidades, arquitetura em camadas e práticas que favoreçam segurança e operação previsível.
+## Introdução
+
+Desenvolvedor backend em evolução, com foco em sistemas reais orientados a regras de negócio. Atuo na construção de APIs REST, modelagem relacional com MySQL e organização arquitetural com separação de responsabilidades para manter código previsível, escalável e fácil de manter.
+
+---
+
+## 🧩 Badges
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0A66C2?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
 
 ## 🚀 Stack Principal
+
+**Backend**
 
 - PHP
 - Laravel
 - APIs REST
 - MySQL
-- HTML, CSS (Tailwind CSS), JavaScript
+
+**Frontend**
+
+- HTML
+- CSS (Tailwind CSS)
+- JavaScript
+
+**Ferramentas**
+
 - Git
+- GitHub
 - Linux
-- Windows
+
+---
 
 ## 💼 Projetos em Destaque
 
 ### PetSystem — Gestão para Petshop
 
-**Problema**
+Backend para centralização de atendimentos e agendamentos.
 
-Atendimentos e agendamentos gerenciados manualmente, ocasionando conflitos, perda de rastreabilidade e retrabalho administrativo.
-
-**Solução**
-
-Backend em PHP com regras de negócio centralizadas: módulos de autenticação, gerenciamento de agendamentos com validação de conflitos, registro de atendimentos e endpoints REST para integração com front-end administrativo.
-
-**Resultado**
-
-Centralização do fluxo operacional, redução de conflitos de agendamento e melhoria na rastreabilidade das operações administrativas, facilitando auditoria e suporte operacional.
-
-**Tecnologias**: PHP • MySQL • JavaScript(Chart.js)
+- Funcionalidades: autenticação, regras de conflito em agendamentos, histórico de atendimentos, endpoints REST para integração.
+- Impacto: redução de retrabalho administrativo e maior previsibilidade no fluxo operacional.
+- Tecnologias: PHP • Laravel • MySQL • JavaScript
+- Repositório: [Adicionar link](https://github.com/NatanLuz)
 
 ---
 
 ### CorteAzulTea — Website Institucional
 
-**Problema**
+Website responsivo para presença digital e canais de contato.
 
-Presença digital limitada e ausência de integração eficiente com canais de contato.
-
-**Solução**
-
-Website responsivo com implementação estática e integrações de contato (WhatsApp, Instagram, Google Maps), entregue com HTML/CSS e Tailwind para consistência e manutenção rápida.
-
-**Resultado**
-
-Melhoria na comunicação de serviços e canais de contato, com implementação de interfaces estáveis e fáceis de manter.
-
-**Tecnologias**: HTML • CSS • Tailwind CSS • JavaScript
+- Funcionalidades: páginas responsivas, integração com WhatsApp/Instagram/Google Maps, estrutura front-end de manutenção simples.
+- Impacto: melhoria na comunicação de serviços e aumento da eficiência no contato com clientes.
+- Tecnologias: HTML • CSS • Tailwind CSS • JavaScript
+- Repositório: [Adicionar link](https://github.com/NatanLuz)
 
 ---
 
 ### Workshift Manager
 
-**Problema**
+Ferramenta para automação de escalas com validação de regras.
 
-Planejamento manual de escalas com risco elevado de conflitos de turnos e inconsistências nas regras de folgas.
+- Funcionalidades: geração automática de escalas, validação de conflitos de turno e folgas, persistência local para revisões.
+- Impacto: redução de trabalho manual e alocação de turnos mais consistente.
+- Tecnologias: Python • Tkinter • SQLite • Pandas
+- Repositório: [Adicionar link](https://github.com/NatanLuz)
 
-**Solução**
+---
 
-Ferramenta em Python para automação da geração de escalas, com validação de regras (conflitos de turno, folgas) e persistência local para auditoria e revisões.
+## 📚 Atualmente Estudando
 
-**Resultado**
+- Arquitetura de software aplicada a PHP/Laravel
+- Design e versionamento de APIs REST
+- Testes automatizados e segurança de APIs
+- Práticas de manutenção e escalabilidade de código
 
-Redução do trabalho manual na geração de escalas e aumento da previsibilidade na alocação de turnos.
-
-**Tecnologias**: Python • Tkinter • SQLite • Pandas
-
-## 📌 Atualmente estudando
-
-- Arquitetura de software aplicada a sistemas PHP/Laravel (organização por camadas, padrões de projeto aplicáveis)
-- Escalabilidade e desenho de APIs REST (contratos, versionamento, limites)
-- Segurança aplicada a APIs e práticas de testes automatizados
-- Observabilidade e previsibilidade operacional (logs, métricas, alertas)
+---
 
 ## 🌎 Idiomas
 
@@ -82,15 +92,27 @@ Redução do trabalho manual na geração de escalas e aumento da previsibilidad
 - Inglês — Avançado (C1)
 - Francês — Intermediário básico (A2)
 
+---
+
 ## 📫 Contato
 
-- Email: natandaluz01@gmail.com
+- Email: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
+- LinkedIn: [linkedin.com/in/natan-da-luz](https://linkedin.com/in/natan-da-luz)
 
-- LinkedIn: https://linkedin.com/in/natan-da-luz
+---
 
-## ⚡ Diferenciais
+## ⚙️ Diferenciais
 
-- Ênfase em regras de negócio e modelagem de domínio
-- Organização de código, separação de responsabilidades e arquitetura em camadas
-- Entrega orientada à previsibilidade operacional e manutenção
-- Adoção de práticas de versionamento e segurança
+- Desenvolvimento orientado a regras de negócio
+- Organização arquitetural e separação de responsabilidades
+- APIs REST com foco em manutenção e evolução
+- Entrega tecnica com previsibilidade operacional
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+	<img height="150" src="https://github-readme-stats.vercel.app/api?username=NatanLuz&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub stats" />
+	<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanLuz&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
