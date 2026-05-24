@@ -1,38 +1,112 @@
-## Olá Bem Vindo !
-## Me chamo Natan Da Luz Cândido
+Olá, eu sou Natan Da Luz 👋
 
-## Sobre Mim..
+Desenvolvedor Backend com foco em PHP e Laravel, especializado na construção de sistemas orientados a regras de negócio e APIs REST.
 
-Sou Desenvolvedor Backend com foco em PHP/Laravel, especializado na construção de sistemas web/sistemas e aplicações orientadas a regras de negócio.
-Possuo experiência no desenvolvimento de soluções completas, incluindo autenticação, modelagem de banco de dados e organização de código com separação de responsabilidades.
-Desenvolvi sistemas utilizados em ambiente real, com foco em segurança, previsibilidade e eficiência operacional.
-Possuo conhecimento em front-end para integração de interfaces.
+Tenho experiência no desenvolvimento de aplicações completas, incluindo autenticação, modelagem de banco de dados relacional (MySQL) e organização de código seguindo boas práticas de arquitetura e separação de responsabilidades.
 
-## 🛠️ Tecnologias
+Já desenvolvi sistemas utilizados em ambiente real, com foco em:
 
-- *PHP*
-- *Laravel*
-- *MySQL*
-- *Sistema Linux* (Em aprendizado)
+- Segurança;
+- Previsibilidade operacional;
+- Organização de fluxo;
+- Eficiência de processos.
 
-## 💼 Minha Experiência
+Também possuo conhecimento em front-end para integração de interfaces e consumo de APIs.
 
-## 🌐 Desenvolvedor Web Freelancer | Site Institucional CorteAzulTea
+## 🚀 Stack Principal
 
-- Desenvolvimento de website institucional com foco em acessibilidade e usabilidade.
-- Implementação de interface responsiva com HTML, CSS, Tailwind CSS e JavaScript.
-- Integração de canais externos (WhatsApp, Instagram e Google Maps).
+**Backend**
 
-## ⚙️ Desenvolvedor Backend Freelancer PHP | (PetSystem) Sistema de Gestão para Petshop/Clínica Veterinária
+- PHP
+- Laravel
+- APIs REST
+- MySQL
 
-- Desenvolvimento de sistema com PHP e MySQL.
-- Modelagem de banco de dados relacional e estruturação de regras de negócio.
-- Implementação de autenticação segura com hash bcrypt.
-- Aplicação de práticas de segurança contra SQL Injection e XSS.
-- Desenvolvimento de dashboard de acompanhamento com Chart.js.
+**Frontend**
 
-## Entre em contato comigo: 
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
 
-- Email: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
+**Ferramentas**
 
-- LinkedIn: [linkedin.com/in/natan-da-luz](https://linkedin.com/in/natan-da-luz)
+- Git
+- GitHub
+- Linux
+
+## 💼 Projetos em Destaque
+
+### 🐾 PetSystem — Gestão de Petshop
+
+Sistema backend desenvolvido em PHP com arquitetura preparada para evolução.
+
+**Problema**
+
+Controle manual de atendimentos e agendamentos, gerando conflitos e retrabalho administrativo.
+
+**Solução**
+
+Centralização do fluxo operacional em um único sistema com:
+
+- autenticação;
+- regras de agendamento;
+- controle de atendimentos;
+- persistência de dados;
+- dashboard administrativo.
+
+**Tecnologias**
+
+PHP • MySQL • JavaScript
+
+### ✂️ CorteAzulTea — Website Institucional
+
+Website institucional responsivo desenvolvido para presença digital e comunicação de serviços.
+
+**Solução Implementada**
+
+- interface acessível;
+- design responsivo;
+- integração com WhatsApp;
+- integração com Instagram;
+- integração com Google Maps.
+
+**Tecnologias**
+
+HTML • CSS • Tailwind CSS • JavaScript
+
+### 🧠 Workshift Manager
+
+Projeto de automação de escalas desenvolvido em Python.
+
+**Objetivo**
+
+Automatizar geração de escalas e validação de conflitos de turnos e folgas.
+
+**Tecnologias**
+
+Python • Tkinter • SQLite • Pandas
+
+## 📌 Atualmente
+
+- Focado em Backend com PHP/Laravel
+- Aprimorando arquitetura de sistemas
+- Estudando escalabilidade e APIs
+- Evoluindo práticas de segurança e organização de código
+
+## 🌎 Idiomas
+
+- 🇺🇸 Inglês — Avançado (C1)
+- 🇫🇷 Francês — Intermediário básico (A2)
+
+## 📫 Contato
+
+Email: natandaluz01@gmail.com
+LinkedIn: https://linkedin.com/in/natan-da-luz
+
+## ⚡ Diferenciais
+
+- Forte foco em regras de negócio
+- Organização de código e separação de responsabilidades
+- Desenvolvimento orientado à previsibilidade operacional
+- Facilidade de adaptação e aprendizado contínuo
