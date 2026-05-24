@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Sou desenvolvedor Backend com foco em PHP e Laravel, especializado na construção de sistemas orientados a regras de negócio e APIs REST. Trabalho com modelagem de bancos relacionais (MySQL), organização de arquitetura e separação de responsabilidades para garantir segurança, previsibilidade operacional e manutenção eficiente do código.
+Desenvolvedor Backend com foco em PHP e Laravel, orientado a sistemas reais e regras de negócio. Atuo na concepção e implementação de APIs REST, modelagem relacional (MySQL) e na organização de código para manutenção e previsibilidade operacional. Priorizo separação de responsabilidades, arquitetura em camadas e práticas que favoreçam segurança e operação previsível.
 
 ## 🚀 Stack Principal
 
@@ -10,9 +10,8 @@ Sou desenvolvedor Backend com foco em PHP e Laravel, especializado na construç�
 - Laravel
 - APIs REST
 - MySQL
-- HTML • CSS • JavaScript
-- Tailwind CSS
-- Git • GitHub
+- HTML, CSS (Tailwind CSS), JavaScript
+- Git, GitHub
 - Linux
 
 ## 💼 Projetos em Destaque
@@ -21,15 +20,15 @@ Sou desenvolvedor Backend com foco em PHP e Laravel, especializado na construç�
 
 **Problema**
 
-Processo de atendimento e agendamento manual, resultando em conflitos, perda de informações e retrabalho administrativo.
+Atendimentos e agendamentos gerenciados manualmente, ocasionando conflitos, perda de rastreabilidade e retrabalho administrativo.
 
 **Solução**
 
-Backend em PHP/Laravel com regras de negócio centralizadas para autenticação, agendamento, controle de atendimentos e persistência consistente dos dados. Implementação de endpoints REST para integração com front-end e sistemas administrativos.
+Backend em PHP/Laravel com regras de negócio centralizadas: módulos de autenticação, gerenciamento de agendamentos com validação de conflitos, registro de atendimentos e endpoints REST para integração com front-end administrativo.
 
 **Resultado**
 
-Centralização do fluxo operacional, redução de conflitos de agendamento e melhor rastreabilidade das operações administrativas.
+Centralização do fluxo operacional, redução de conflitos de agendamento e melhoria na rastreabilidade das operações administrativas, facilitando auditoria e suporte operacional.
 
 **Tecnologias**: PHP • Laravel • MySQL • JavaScript
 
@@ -39,15 +38,15 @@ Centralização do fluxo operacional, redução de conflitos de agendamento e me
 
 **Problema**
 
-Presença digital limitada e baixa eficiência na apresentação de serviços e canais de contato.
+Presença digital limitada e ausência de integração eficiente com canais de contato.
 
 **Solução**
 
-Website responsivo com foco em usabilidade, integração com canais de contato (WhatsApp, Instagram) e mapas, além de HTML/CSS com Tailwind para entrega rápida e consistente.
+Website responsivo com implementação estática e integrações de contato (WhatsApp, Instagram, Google Maps), entregue com HTML/CSS e Tailwind para consistência e manutenção rápida.
 
 **Resultado**
 
-Melhoria na apresentação dos serviços e nos canais de contato, facilitando captação de clientes e comunicação direta.
+Melhoria na comunicação de serviços e canais de contato, com implementação de interfaces estáveis e fáceis de manter.
 
 **Tecnologias**: HTML • CSS • Tailwind CSS • JavaScript
 
@@ -57,24 +56,24 @@ Melhoria na apresentação dos serviços e nos canais de contato, facilitando ca
 
 **Problema**
 
-Geração manual de escalas com alto risco de conflitos de turnos e inconsistências em folgas.
+Planejamento manual de escalas com risco elevado de conflitos de turnos e inconsistências nas regras de folgas.
 
 **Solução**
 
-Automação em Python para geração de escalas, validação de conflitos e regras de folgas; persistência local e ferramentas para validação prévia.
+Ferramenta em Python para automação da geração de escalas, com validação de regras (conflitos de turno, folgas) e persistência local para auditoria e revisões.
 
 **Resultado**
 
-Redução do esforço manual na criação de escalas e maior previsibilidade na alocação de turnos.
+Redução do trabalho manual na geração de escalas e aumento da previsibilidade na alocação de turnos.
 
 **Tecnologias**: Python • Tkinter • SQLite • Pandas
 
 ## 📌 Atualmente estudando
 
-- Arquitetura de software aplicada a sistemas PHP/Laravel
-- Escalabilidade e desenho de APIs REST
-- Práticas avançadas de segurança e testes automatizados
-- Observabilidade e previsibilidade operacional
+- Arquitetura de software aplicada a sistemas PHP/Laravel (organização por camadas, padrões de projeto aplicáveis)
+- Escalabilidade e desenho de APIs REST (contratos, versionamento, limites)
+- Segurança aplicada a APIs e práticas de testes automatizados
+- Observabilidade e previsibilidade operacional (logs, métricas, alertas)
 
 ## 🌎 Idiomas
 
@@ -84,12 +83,12 @@ Redução do esforço manual na criação de escalas e maior previsibilidade na 
 
 ## 📫 Contato
 
-Email: natandaluz01@gmail.com
-LinkedIn: https://linkedin.com/in/natan-da-luz
+- Email: natandaluz01@gmail.com
+- LinkedIn: https://linkedin.com/in/natan-da-luz
 
 ## ⚡ Diferenciais
 
-- Foco em regras de negócio e modelagem de domínio
-- Organização de código e separação de responsabilidades
-- Entrega orientada à previsibilidade operacional
-- Adoção de boas práticas de segurança e versionamento
+- Ênfase em regras de negócio e modelagem de domínio
+- Organização de código, separação de responsabilidades e arquitetura em camadas
+- Entrega orientada à previsibilidade operacional e manutenção
+- Adoção de práticas de versionamento e segurança
