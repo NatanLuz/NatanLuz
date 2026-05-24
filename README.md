@@ -23,7 +23,7 @@ Possuo conhecimento em front-end para integração de interfaces.
 - Integração de canais externos (WhatsApp, Instagram e Google Maps).
 
 
-## ⚙️ Desenvolvedor Backend PHP | (PetSystem) Sistema de Gestão para Petshop e Clínica Veterinária
+## ⚙️ Desenvolvedor Backend PHP | (PetSystem) Sistema de Gestão para Petshop/Clínica Veterinária
 
 - Desenvolvimento de sistema com PHP e MySQL.
 - Modelagem de banco de dados relacional e estruturação de regras de negócio.
