@@ -79,7 +79,6 @@ Ferramenta para automação de escalas com validação de regras.
 
 ## 🌎 Idiomas
 
-- Português — Nativo
 - Inglês — Avançado (C1)
 - Francês — Intermediário básico (A2)
 
