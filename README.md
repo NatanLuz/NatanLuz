@@ -2,9 +2,7 @@
 
 ## Desenvolvedor Backend
 
-## Introdução
-
-Desenvolvedor backend em evolução, com foco em sistemas reais orientados a regras de negócio. Atuo na construção de APIs REST, modelagem relacional com MySQL e organização arquitetural com separação de responsabilidades para manter código previsível, escalável e fácil de manter.
+Sou Desenvolvedor Backend em evolução, com foco em sistemas reais orientados a regras de negócio. Atuo na construção de APIs REST, modelagem relacional com MySQL e organização arquitetural com separação de responsabilidades para manter código previsível, escalável e fácil de manter.
 
 ---
 
@@ -46,7 +44,7 @@ Backend para centralização de atendimentos e agendamentos.
 
 - Funcionalidades: autenticação, regras de conflito em agendamentos, histórico de atendimentos, endpoints REST para integração.
 - Impacto: redução de retrabalho administrativo e maior previsibilidade no fluxo operacional.
-- Tecnologias: PHP • Laravel • MySQL • JavaScript
+- Tecnologias: PHP • MySQL • JavaScript(Chart.js)
 
 ---
 
