@@ -25,13 +25,13 @@ Atendimentos e agendamentos gerenciados manualmente, ocasionando conflitos, perd
 
 **Solução**
 
-Backend em PHP/Laravel com regras de negócio centralizadas: módulos de autenticação, gerenciamento de agendamentos com validação de conflitos, registro de atendimentos e endpoints REST para integração com front-end administrativo.
+Backend em PHP com regras de negócio centralizadas: módulos de autenticação, gerenciamento de agendamentos com validação de conflitos, registro de atendimentos e endpoints REST para integração com front-end administrativo.
 
 **Resultado**
 
 Centralização do fluxo operacional, redução de conflitos de agendamento e melhoria na rastreabilidade das operações administrativas, facilitando auditoria e suporte operacional.
 
-**Tecnologias**: PHP • Laravel • MySQL • JavaScript
+**Tecnologias**: PHP • MySQL • JavaScript(Chart.js)
 
 ---
 
@@ -85,6 +85,7 @@ Redução do trabalho manual na geração de escalas e aumento da previsibilidad
 ## 📫 Contato
 
 - Email: natandaluz01@gmail.com
+
 - LinkedIn: https://linkedin.com/in/natan-da-luz
 
 ## ⚡ Diferenciais
