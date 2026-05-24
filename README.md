@@ -1,103 +1,86 @@
-Olá, eu sou Natan Da Luz 👋
+# Natan Da Luz
 
-Desenvolvedor Backend com foco em PHP e Laravel, especializado na construção de sistemas orientados a regras de negócio e APIs REST.
+## Introdução
 
-Tenho experiência no desenvolvimento de aplicações completas, incluindo autenticação, modelagem de banco de dados relacional (MySQL) e organização de código seguindo boas práticas de arquitetura e separação de responsabilidades.
-
-Já desenvolvi sistemas utilizados em ambiente real, com foco em:
-
-- Segurança;
-- Previsibilidade operacional;
-- Organização de fluxo;
-- Eficiência de processos.
-
-Também possuo conhecimento em front-end para integração de interfaces e consumo de APIs.
+Sou desenvolvedor Backend com foco em PHP e Laravel, especializado na construção de sistemas orientados a regras de negócio e APIs REST. Trabalho com modelagem de bancos relacionais (MySQL), organização de arquitetura e separação de responsabilidades para garantir segurança, previsibilidade operacional e manutenção eficiente do código.
 
 ## 🚀 Stack Principal
-
-**Backend**
 
 - PHP
 - Laravel
 - APIs REST
 - MySQL
-
-**Frontend**
-
-- HTML
-- CSS
-- JavaScript
+- HTML • CSS • JavaScript
 - Tailwind CSS
-
-**Ferramentas**
-
-- Git
-- GitHub
+- Git • GitHub
 - Linux
 
 ## 💼 Projetos em Destaque
 
-### 🐾 PetSystem — Gestão de Petshop
-
-Sistema backend desenvolvido em PHP com arquitetura preparada para evolução.
+### PetSystem — Gestão para Petshop
 
 **Problema**
 
-Controle manual de atendimentos e agendamentos, gerando conflitos e retrabalho administrativo.
+Processo de atendimento e agendamento manual, resultando em conflitos, perda de informações e retrabalho administrativo.
 
 **Solução**
 
-Centralização do fluxo operacional em um único sistema com:
+Backend em PHP/Laravel com regras de negócio centralizadas para autenticação, agendamento, controle de atendimentos e persistência consistente dos dados. Implementação de endpoints REST para integração com front-end e sistemas administrativos.
 
-- autenticação;
-- regras de agendamento;
-- controle de atendimentos;
-- persistência de dados;
-- dashboard administrativo.
+**Resultado**
 
-**Tecnologias**
+Centralização do fluxo operacional, redução de conflitos de agendamento e melhor rastreabilidade das operações administrativas.
 
-PHP • MySQL • JavaScript
+**Tecnologias**: PHP • Laravel • MySQL • JavaScript
 
-### ✂️ CorteAzulTea — Website Institucional
+---
 
-Website institucional responsivo desenvolvido para presença digital e comunicação de serviços.
+### CorteAzulTea — Website Institucional
 
-**Solução Implementada**
+**Problema**
 
-- interface acessível;
-- design responsivo;
-- integração com WhatsApp;
-- integração com Instagram;
-- integração com Google Maps.
+Presença digital limitada e baixa eficiência na apresentação de serviços e canais de contato.
 
-**Tecnologias**
+**Solução**
 
-HTML • CSS • Tailwind CSS • JavaScript
+Website responsivo com foco em usabilidade, integração com canais de contato (WhatsApp, Instagram) e mapas, além de HTML/CSS com Tailwind para entrega rápida e consistente.
 
-### 🧠 Workshift Manager
+**Resultado**
 
-Projeto de automação de escalas desenvolvido em Python.
+Melhoria na apresentação dos serviços e nos canais de contato, facilitando captação de clientes e comunicação direta.
 
-**Objetivo**
+**Tecnologias**: HTML • CSS • Tailwind CSS • JavaScript
 
-Automatizar geração de escalas e validação de conflitos de turnos e folgas.
+---
 
-**Tecnologias**
+### Workshift Manager
 
-Python • Tkinter • SQLite • Pandas
+**Problema**
 
-## 📌 Atualmente
+Geração manual de escalas com alto risco de conflitos de turnos e inconsistências em folgas.
 
-- Focado em Backend com PHP/Laravel
-- Aprimorando arquitetura de sistemas
-- Estudando escalabilidade e APIs
-- Evoluindo práticas de segurança e organização de código
+**Solução**
+
+Automação em Python para geração de escalas, validação de conflitos e regras de folgas; persistência local e ferramentas para validação prévia.
+
+**Resultado**
+
+Redução do esforço manual na criação de escalas e maior previsibilidade na alocação de turnos.
+
+**Tecnologias**: Python • Tkinter • SQLite • Pandas
+
+## 📌 Atualmente estudando
+
+- Arquitetura de software aplicada a sistemas PHP/Laravel
+- Escalabilidade e desenho de APIs REST
+- Práticas avançadas de segurança e testes automatizados
+- Observabilidade e previsibilidade operacional
 
 ## 🌎 Idiomas
 
-- 🇺🇸 Inglês — Avançado (C1)
-- 🇫🇷 Francês — Intermediário básico (A2)
+- Português — Nativo
+- Inglês — Avançado (C1)
+- Francês — Intermediário básico (A2)
 
 ## 📫 Contato
 
@@ -106,7 +89,7 @@ LinkedIn: https://linkedin.com/in/natan-da-luz
 
 ## ⚡ Diferenciais
 
-- Forte foco em regras de negócio
+- Foco em regras de negócio e modelagem de domínio
 - Organização de código e separação de responsabilidades
-- Desenvolvimento orientado à previsibilidade operacional
-- Facilidade de adaptação e aprendizado contínuo
+- Entrega orientada à previsibilidade operacional
+- Adoção de boas práticas de segurança e versionamento
