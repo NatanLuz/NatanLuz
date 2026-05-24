@@ -23,7 +23,7 @@ Possuo conhecimento em front-end para integração de interfaces.
 - Integração de canais externos (WhatsApp, Instagram e Google Maps).
 
 
-## ⚙️ Desenvolvedor Backend PHP | PetSystem Sistema de Gestão para Petshop e Clínica Veterinária
+## ⚙️ Desenvolvedor Backend PHP | (PetSystem) Sistema de Gestão para Petshop e Clínica Veterinária
 
 - Desenvolvimento de sistema com PHP e MySQL.
 - Modelagem de banco de dados relacional e estruturação de regras de negócio.
@@ -31,7 +31,7 @@ Possuo conhecimento em front-end para integração de interfaces.
 - Aplicação de práticas de segurança contra SQL Injection e XSS.
 - Desenvolvimento de dashboard de acompanhamento com Chart.js.
 
-## Contato
+## Entre em Contato : 
 
 - Email: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
 
