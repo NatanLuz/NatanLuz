@@ -31,7 +31,7 @@ Possuo conhecimento em front-end para integração de interfaces.
 - Aplicação de práticas de segurança contra SQL Injection e XSS.
 - Desenvolvimento de dashboard de acompanhamento com Chart.js.
 
-## Entre em Contato : 
+## Entre em contato comigo: 
 
 - Email: [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
 
