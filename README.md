@@ -1,6 +1,6 @@
 ## Natan Da Luz
 
-## Desenvolvedor Backend | PHP • Laravel
+## Desenvolvedor Backend
 
 ## Introdução
 
