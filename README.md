@@ -52,7 +52,7 @@ Website responsivo para presença digital e canais de contato.
 
 - Funcionalidades: páginas responsivas, integração com WhatsApp/Instagram/Google Maps, estrutura front-end de manutenção simples.
 - Impacto: melhoria na comunicação de serviços e aumento da eficiência no contato com clientes.
-- Tecnologias: HTML • CSS • Tailwind CSS • JavaScript
+- Tecnologias: HTML • Tailwind (CSS) • JavaScript
 
 ---
 
