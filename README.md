@@ -14,20 +14,17 @@ Sou Desenvolvedor Backend em evolução, com foco em sistemas reais orientados a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Backend**
-
 - PHP
 - Laravel
 - APIs REST
 - MySQL
 
 **Frontend**
-
 - HTML
 - CSS (Tailwind CSS)
 - JavaScript
 
 **Ferramentas**
-
 - Git
 - GitHub
 - Linux
