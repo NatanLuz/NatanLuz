@@ -53,16 +53,6 @@ Website responsivo para presença digital e canais de contato.
 
 ---
 
-### Workshift Manager
-
-Ferramenta para automação de escalas com validação de regras.
-
-- Funcionalidades: geração automática de escalas, validação de conflitos de turno e folgas, persistência local para revisões.
-- Impacto: redução de trabalho manual e alocação de turnos mais consistente.
-- Tecnologias: Python • Tkinter • SQLite • Pandas
-
----
-
 ## 📚 Atualmente Estudando
 
 - Arquitetura de software aplicada a PHP/Laravel
