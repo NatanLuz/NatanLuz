@@ -20,7 +20,7 @@ Me chamo Natan Da Luz. Sou Desenvolvedor Backend em evolução, com foco em sist
 
 **Frontend**
 - HTML
-- CSS (Tailwind CSS)
+- Tailwind CSS
 - JavaScript
 
 **Ferramentas**
