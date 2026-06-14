@@ -30,9 +30,9 @@ Me chamo Natan Da Luz. Sou Desenvolvedor Backend em evolução, com foco em sist
 
 ---
 
-## 💼 Projetos em Destaque / Experiência
+## 💼 Projetos em Destaque
 
-### PetSystem — Gestão para Petshop
+## PetSystem — Gestão para Petshop
 
 Backend para centralização de atendimentos e agendamentos.
 
@@ -42,7 +42,7 @@ Backend para centralização de atendimentos e agendamentos.
 
 ---
 
-### CorteAzulTea — Website Institucional
+## CorteAzulTea — Website Institucional
 
 Website responsivo para presença digital e canais de contato.
 
