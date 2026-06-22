@@ -21,6 +21,7 @@ Me chamo Natan Da Luz Cândido. Sou Desenvolvedor Backend em evolução, com foc
 **Frontend**
 - HTML
 - Tailwind CSS
+- CSS
 - JavaScript
 
 **Ferramentas**
