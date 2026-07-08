@@ -1,8 +1,6 @@
+## Natan Da Luz Cândido
 
-
-# Natan Da Luz Cândido
-
-### Desenvolvedor Backend | PHP | Laravel | REST APIs | MySQL
+## Desenvolvedor Backend - PHP | Laravel | Javascript | REST APIs | MySQL
 
 <p>
   <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-2F3340?style=for-the-badge" alt="Backend PHP e Laravel" />
@@ -25,7 +23,7 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
 
 ---
 
-## Stack técnica
+## Minha Stack
 
 <table>
   <tr>
@@ -95,7 +93,7 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
       <img src="https://via.placeholder.com/800x450.png?text=Screenshot+Saldo+Pro" alt="Screenshot do projeto Saldo Pro" width="100%" />
     </td>
     <td width="62%" valign="top">
-      <h3>Saldo Pro</h3>
+      <h3>Meu Saldo Certo</h3>
       <p>Sistema financeiro desenvolvido com Laravel, focado em controle de receitas, despesas, categorias, relatórios e visualização de dados em dashboard.</p>
       <p><strong>Funcionalidades:</strong> login, registro, dashboard, receitas, despesas, categorias, relatórios, gráficos, policies, form requests, paginação e autorização.</p>
       <p><strong>Tecnologias:</strong> Laravel, PHP, MySQL, Blade, Chart.js.</p>
@@ -139,7 +137,7 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
       <img src="https://via.placeholder.com/800x450.png?text=Screenshot+Corte+Azul+TEA" alt="Screenshot do projeto Corte Azul TEA" width="100%" />
     </td>
     <td width="62%" valign="top">
-      <h3>Corte Azul TEA</h3>
+      <h3>CorteAzulT.E.A</h3>
       <p>Website institucional desenvolvido para cliente, com foco em apresentação profissional, navegação objetiva e presença digital responsiva.</p>
       <p><strong>Funcionalidades:</strong> página institucional, estrutura responsiva, organização de conteúdo e interface orientada à comunicação do cliente.</p>
       <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript.</p>
@@ -169,29 +167,6 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
   <img src="https://img.shields.io/badge/APIs%20REST-0F766E?style=for-the-badge" alt="APIs REST" />
   <img src="https://img.shields.io/badge/Design%20Patterns-111827?style=for-the-badge" alt="Design Patterns" />
 </p>
-
----
-
-## GitHub em números
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=NatanLuz&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatanLuz&theme=default&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanLuz&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=NatanLuz&theme=github-light&hide_border=true" alt="Contribution Graph" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ---
 
