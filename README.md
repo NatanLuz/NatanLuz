@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-2F3340?style=for-the-badge" alt="Backend PHP e Laravel" />
   <img src="https://img.shields.io/badge/APIs-REST-0F766E?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Database-MySQL-1D4ED8?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Focus-Clean%20Backend-111827?style=for-the-badge" alt="Clean Backend" />
 </p>
 
 ---
