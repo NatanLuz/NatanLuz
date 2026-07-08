@@ -19,6 +19,8 @@ Gosto de desenvolver sistemas orientados a regras de negócio e valorizo código
 
 Busco aprimorar continuamente meus conhecimentos para construir soluções consistentes e preparadas para crescer de forma sustentável.
 
+Atualmente busco minha primeira oportunidade como Desenvolvedor Backend, construindo projetos reais para evoluir continuamente minhas habilidades técnicas.
+
 ---
 
 ## Minha Stack
@@ -97,14 +99,9 @@ Busco aprimorar continuamente meus conhecimentos para construir soluções consi
       <p>Sistema financeiro desenvolvido com Laravel, focado em controle de receitas, despesas, categorias, relatórios e visualização de dados em dashboard.</p>
       <p><strong>Funcionalidades:</strong> login, registro, dashboard, receitas, despesas, categorias, relatórios, gráficos, policies, form requests, paginação e autorização.</p>
       <p><strong>Tecnologias:</strong> Laravel, PHP, MySQL, Blade, Chart.js.</p>
-      <p>
-        <a href="https://github.com/NatanLuz/meu-saldo-certo">
-          <img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código do Meu Saldo Certo no GitHub" />
-        </a>
-        <a href="https://meu-saldo-certo-production.up.railway.app/">
-          <img src="https://img.shields.io/badge/Demo-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demonstração do Meu Saldo Certo" />
-        </a>
-      </p>
+      <a href="https://meu-saldo-certo-production.up.railway.app/">
+        <img src="https://img.shields.io/badge/Demo-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demonstração do Meu Saldo Certo" />
+      </a>
     </td>
   </tr>
 </table>
@@ -121,12 +118,6 @@ Busco aprimorar continuamente meus conhecimentos para construir soluções consi
       <p>Sistema completo para petshops e clínicas veterinárias, com foco em gestão de clientes, pets, serviços, agendamentos e histórico operacional.</p>
       <p><strong>Funcionalidades:</strong> login, dashboard, clientes, pets, serviços, agendamentos, usuários, CRUD, controle de sessão, segurança e histórico.</p>
       <p><strong>Tecnologias:</strong> PHP, MySQL, JavaScript, Chart.js.</p>
-      <p>
-        <a href="https://github.com/NatanLuz/petsystem">
-          <img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código do PetSystem no GitHub" />
-        </a>
-       
-      </p>
     </td>
   </tr>
 </table>
@@ -143,12 +134,9 @@ Busco aprimorar continuamente meus conhecimentos para construir soluções consi
       <p>Website institucional desenvolvido para cliente, com foco em apresentação profissional, navegação objetiva e presença digital responsiva.</p>
       <p><strong>Funcionalidades:</strong> página institucional, estrutura responsiva, organização de conteúdo e interface orientada à comunicação do cliente.</p>
       <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript.</p>
-      <p>
-        <a href="https://github.com/NatanLuz/corte-azul-tea">
-          <img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código do Corte Azul TEA no GitHub" />
-        </a>
-        
-      </p>
+      <a href="https://projeto-corte-azul-tea.vercel.app/">
+        <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visitar%20Site-0F766E?style=for-the-badge" alt="Visitar site do Corte Azul TEA" />
+      </a>
     </td>
   </tr>
 </table>
@@ -161,7 +149,7 @@ Busco aprimorar continuamente meus conhecimentos para construir soluções consi
   <img src="https://img.shields.io/badge/Arquitetura%20de%20Software-111827?style=for-the-badge" alt="Arquitetura de Software" />
   <img src="https://img.shields.io/badge/SOLID-111827?style=for-the-badge" alt="SOLID" />
   <img src="https://img.shields.io/badge/Clean%20Code-111827?style=for-the-badge" alt="Clean Code" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Testes%20Automatizados-111827?style=for-the-badge" alt="Testes Automatizados" />
   <img src="https://img.shields.io/badge/Laravel%20Avan%C3%A7ado-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Avançado" />
   <img src="https://img.shields.io/badge/APIs%20REST-0F766E?style=for-the-badge" alt="APIs REST" />
@@ -172,24 +160,11 @@ Busco aprimorar continuamente meus conhecimentos para construir soluções consi
 
 ## Contato
 
-<table>
-  <tr>
-    <td><strong>LinkedIn</strong></td>
-    <td><a href="https://www.linkedin.com/in/natandaluz/">linkedin.com/in/natandaluz</a></td>
-  </tr>
-  <tr>
-    <td><strong>Portfólio</strong></td>
-    <td><a href="https://portfolionatan.vercel.app/">portfolionatan.vercel.app</a></td>
-  </tr>
-  <tr>
-    <td><strong>Email</strong></td>
-    <td><a href="mailto:natandaluz01@gmail.com">natandaluz01@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td><strong>GitHub</strong></td>
-    <td><a href="https://github.com/NatanLuz">github.com/NatanLuz</a></td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natandaluz/)
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolionatan.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natandaluz01@gmail.com)
 
 ---
 
