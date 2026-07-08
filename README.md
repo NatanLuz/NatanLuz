@@ -1,6 +1,6 @@
-## Natan Da Luz Cândido
+# Natan Da Luz Cândido
 
-## Desenvolvedor Backend - PHP | Laravel | Javascript | REST APIs | MySQL
+## Desenvolvedor Backend - PHP | Laravel | JavaScript | REST APIs | MySQL
 
 <p>
   <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-2F3340?style=for-the-badge" alt="Backend PHP e Laravel" />
@@ -9,17 +9,15 @@
   <img src="https://img.shields.io/badge/Focus-Clean%20Backend-111827?style=for-the-badge" alt="Clean Backend" />
 </p>
 
-</div>
-
 ---
 
 ## Sobre mim
 
-Olá, eu sou o Natan. Sou Desenvolvedor Backend com foco em PHP, Laravel, APIs REST e modelagem de banco de dados.
+Olá, eu sou o Natan, Desenvolvedor Backend com foco em PHP, Laravel, JavaScript, APIs REST e MySQL.
 
-Gosto de desenvolver aplicações orientadas a regras de negócio, com código organizado, seguro, escalável e de fácil manutenção. Tenho interesse especial por arquitetura de software, validação de dados, autorização, segurança e boas práticas no desenvolvimento backend.
+Gosto de desenvolver sistemas orientados a regras de negócio e valorizo código organizado, seguro, escalável e fácil de manter. Tenho interesse especial por arquitetura de software, modelagem de dados, validação, autorização, segurança e boas práticas no desenvolvimento backend.
 
-Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de sistemas em produção, com foco em evolução técnica constante.
+Continuo aprimorando meus conhecimentos para construir soluções consistentes e preparadas para crescer de forma sustentável.
 
 ---
 
@@ -90,7 +88,7 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
 <table>
   <tr>
     <td width="38%" valign="top">
-      <img src="https://via.placeholder.com/800x450.png?text=Screenshot+Saldo+Pro" alt="Screenshot do projeto Saldo Pro" width="100%" />
+      <img src="./meusaldocerto.png" alt="Screenshot do projeto Meu Saldo Certo" width="100%" />
     </td>
     <td width="62%" valign="top">
       <h3>Meu Saldo Certo</h3>
@@ -98,12 +96,10 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
       <p><strong>Funcionalidades:</strong> login, registro, dashboard, receitas, despesas, categorias, relatórios, gráficos, policies, form requests, paginação e autorização.</p>
       <p><strong>Tecnologias:</strong> Laravel, PHP, MySQL, Blade, Chart.js.</p>
       <p>
-        <a href="https://github.com/NatanLuz/saldo-pro">
-          <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Saldo Pro" />
+        <a href="https://github.com/NatanLuz/meu-saldo-certo">
+          <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Meu Saldo Certo" />
         </a>
-        <a href="https://seu-dominio.com/saldo-pro">
-          <img src="https://img.shields.io/badge/Demonstra%C3%A7%C3%A3o-Acessar-0F766E?style=for-the-badge" alt="Demonstração do Saldo Pro" />
-        </a>
+        <!-- TODO: adicionar link correto da demonstração do Meu Saldo Certo -->
       </p>
     </td>
   </tr>
@@ -112,7 +108,7 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
 <table>
   <tr>
     <td width="38%" valign="top">
-      <img src="https://via.placeholder.com/800x450.png?text=Screenshot+PetSystem" alt="Screenshot do projeto PetSystem" width="100%" />
+      <img src="./petsystem.png" alt="Screenshot do projeto PetSystem" width="100%" />
     </td>
     <td width="62%" valign="top">
       <h3>PetSystem</h3>
@@ -123,9 +119,7 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
         <a href="https://github.com/NatanLuz/petsystem">
           <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do PetSystem" />
         </a>
-        <a href="https://seu-dominio.com/petsystem">
-          <img src="https://img.shields.io/badge/Demonstra%C3%A7%C3%A3o-Acessar-0F766E?style=for-the-badge" alt="Demonstração do PetSystem" />
-        </a>
+        <!-- TODO: adicionar link correto da demonstração do PetSystem -->
       </p>
     </td>
   </tr>
@@ -134,10 +128,10 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
 <table>
   <tr>
     <td width="38%" valign="top">
-      <img src="https://via.placeholder.com/800x450.png?text=Screenshot+Corte+Azul+TEA" alt="Screenshot do projeto Corte Azul TEA" width="100%" />
+      <img src="./corteazultea.png" alt="Screenshot do projeto Corte Azul TEA" width="100%" />
     </td>
     <td width="62%" valign="top">
-      <h3>CorteAzulT.E.A</h3>
+      <h3>Corte Azul TEA</h3>
       <p>Website institucional desenvolvido para cliente, com foco em apresentação profissional, navegação objetiva e presença digital responsiva.</p>
       <p><strong>Funcionalidades:</strong> página institucional, estrutura responsiva, organização de conteúdo e interface orientada à comunicação do cliente.</p>
       <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript.</p>
@@ -145,9 +139,7 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
         <a href="https://github.com/NatanLuz/corte-azul-tea">
           <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Corte Azul TEA" />
         </a>
-        <a href="https://seu-dominio.com/corte-azul-tea">
-          <img src="https://img.shields.io/badge/Demonstra%C3%A7%C3%A3o-Acessar-0F766E?style=for-the-badge" alt="Demonstração do Corte Azul TEA" />
-        </a>
+        <!-- TODO: adicionar link correto da demonstração do Corte Azul TEA -->
       </p>
     </td>
   </tr>
@@ -155,7 +147,7 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
 
 ---
 
-## Atualmente estudando
+## Atualmente Estudando
 
 <p>
   <img src="https://img.shields.io/badge/Arquitetura%20de%20Software-111827?style=for-the-badge" alt="Arquitetura de Software" />
@@ -172,20 +164,24 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
 
 ## Contato
 
-<p align="center">
-  <a href="https://github.com/NatanLuz">
-    <img src="https://img.shields.io/badge/GitHub-NatanLuz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Natan Luz" />
-  </a>
-  <a href="https://www.linkedin.com/in/natandaluz/">
-    <img src="https://img.shields.io/badge/LinkedIn-Natan%20da%20Luz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Natan da Luz" />
-  </a>
-  <a href="https://portfolionatan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio de Natan Luz" />
-  </a>
-  <a href="mailto:natandaluz01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Enviar%20mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Natan Luz" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/natandaluz/">linkedin.com/in/natandaluz</a></td>
+  </tr>
+  <tr>
+    <td><strong>Portfólio</strong></td>
+    <td><a href="https://portfolionatan.vercel.app/">portfolionatan.vercel.app</a></td>
+  </tr>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td><a href="mailto:natandaluz01@gmail.com">natandaluz01@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>GitHub</strong></td>
+    <td><a href="https://github.com/NatanLuz">github.com/NatanLuz</a></td>
+  </tr>
+</table>
 
 ---
 
