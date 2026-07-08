@@ -178,6 +178,29 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
 
 ---
 
+## GitHub em números
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=NatanLuz&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatanLuz&theme=default&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanLuz&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=NatanLuz&theme=github-light&hide_border=true" alt="Contribution Graph" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Contato
 
 <p align="center">
