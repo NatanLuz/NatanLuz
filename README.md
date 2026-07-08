@@ -20,7 +20,7 @@ Continuo aprimorando meus conhecimentos para construir soluções consistentes e
 
 ---
 
-## Minha Stack
+## Tecnologias
 
 <table>
   <tr>
