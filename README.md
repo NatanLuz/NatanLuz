@@ -67,7 +67,7 @@ Continuo aprimorando meus conhecimentos para construir soluções consistentes e
   </tr>
 </table>
 
-### Conhecimentos aplicados
+## Conhecimentos aplicados
 
 <p>
   <img src="https://img.shields.io/badge/CRUD-111827?style=flat-square" alt="CRUD" />
@@ -99,7 +99,7 @@ Continuo aprimorando meus conhecimentos para construir soluções consistentes e
         <a href="https://github.com/NatanLuz/meu-saldo-certo">
           <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Meu Saldo Certo" />
         </a>
-        <!-- TODO: adicionar link correto da demonstração do Meu Saldo Certo -->
+      
       </p>
     </td>
   </tr>
@@ -119,7 +119,7 @@ Continuo aprimorando meus conhecimentos para construir soluções consistentes e
         <a href="https://github.com/NatanLuz/petsystem">
           <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do PetSystem" />
         </a>
-        <!-- TODO: adicionar link correto da demonstração do PetSystem -->
+      
       </p>
     </td>
   </tr>
@@ -131,7 +131,7 @@ Continuo aprimorando meus conhecimentos para construir soluções consistentes e
       <img src="./corteazultea.png" alt="Screenshot do projeto Corte Azul TEA" width="100%" />
     </td>
     <td width="62%" valign="top">
-      <h3>Corte Azul TEA</h3>
+      <h3>Corte Azul T.E.A</h3>
       <p>Website institucional desenvolvido para cliente, com foco em apresentação profissional, navegação objetiva e presença digital responsiva.</p>
       <p><strong>Funcionalidades:</strong> página institucional, estrutura responsiva, organização de conteúdo e interface orientada à comunicação do cliente.</p>
       <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript.</p>
@@ -139,7 +139,7 @@ Continuo aprimorando meus conhecimentos para construir soluções consistentes e
         <a href="https://github.com/NatanLuz/corte-azul-tea">
           <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Corte Azul TEA" />
         </a>
-        <!-- TODO: adicionar link correto da demonstração do Corte Azul TEA -->
+        
       </p>
     </td>
   </tr>
@@ -186,5 +186,5 @@ Continuo aprimorando meus conhecimentos para construir soluções consistentes e
 ---
 
 <p align="center">
-  Obrigado pela visita. Meu foco é construir software backend com clareza, segurança e responsabilidade técnica.
+  Obrigado pela visita !
 </p>
