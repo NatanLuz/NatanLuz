@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://via.placeholder.com/1200x320.png?text=Banner+do+Perfil" alt="Banner do perfil de Natan Da Luz Cândido" width="100%" />
-</div>
 
-<br>
-
-<div align="center">
 
 # Natan Da Luz Cândido
 
