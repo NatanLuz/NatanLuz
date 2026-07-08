@@ -6,18 +6,13 @@
   <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-111827?style=for-the-badge" alt="Backend PHP e Laravel" />
   <img src="https://img.shields.io/badge/APIs-REST-111827?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Database-MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Focus-Clean%20Backend-111827?style=for-the-badge" alt="Clean Backend" />
 </p>
 
 ---
 
 ## Sobre mim
 
-Olá, eu sou o Natan, Desenvolvedor Backend com foco em PHP, Laravel, JavaScript, APIs REST e MySQL.
-
-Gosto de desenvolver sistemas orientados a regras de negócio e valorizo código organizado, seguro, escalável e fácil de manter. Tenho interesse especial em arquitetura de software, modelagem de dados, validação, autorização, segurança e boas práticas de desenvolvimento backend.
-
-Busco aprimorar continuamente meus conhecimentos para construir soluções consistentes e preparadas para crescer de forma sustentável.
+Olá, eu sou o Natan, Desenvolvedor Backend com foco em PHP, Laravel, JavaScript, APIs REST e MySQL. Gosto de desenvolver sistemas orientados a regras de negócio e valorizo código organizado, seguro, escalável e fácil de manter. Tenho interesse especial em arquitetura de software, modelagem de dados, validação, autorização, segurança e boas práticas de desenvolvimento backend. Busco aprimorar continuamente meus conhecimentos para construir soluções consistentes e preparadas para crescer de forma sustentável.
 
 Atualmente busco minha primeira oportunidade como Desenvolvedor Backend, construindo projetos reais para evoluir continuamente minhas habilidades técnicas.
 
@@ -33,8 +28,6 @@ Atualmente busco minha primeira oportunidade como Desenvolvedor Backend, constru
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
         <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square" alt="REST APIs" />
-        <img src="https://img.shields.io/badge/MVC-374151?style=flat-square" alt="MVC" />
-        <img src="https://img.shields.io/badge/POO-374151?style=flat-square" alt="POO" />
       </p>
     </td>
     <td valign="top" width="50%">
@@ -48,7 +41,7 @@ Atualmente busco minha primeira oportunidade como Desenvolvedor Backend, constru
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>Frontend e views</h3>
+      <h3>Frontend</h3>
       <p>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
@@ -69,7 +62,7 @@ Atualmente busco minha primeira oportunidade como Desenvolvedor Backend, constru
   </tr>
 </table>
 
-### Conhecimentos aplicados
+### Conhecimentos
 
 <p>
   <img src="https://img.shields.io/badge/CRUD-111827?style=flat-square" alt="CRUD" />
@@ -95,7 +88,7 @@ Atualmente busco minha primeira oportunidade como Desenvolvedor Backend, constru
   </tr>
   <tr>
     <td>
-      <h3>Meu Saldo Certo</h3>
+      <h3>MeuSaldoCerto</h3>
       <p>Sistema financeiro desenvolvido com Laravel, focado em controle de receitas, despesas, categorias, relatórios e visualização de dados em dashboard.</p>
       <p><strong>Funcionalidades:</strong> login, registro, dashboard, receitas, despesas, categorias, relatórios, gráficos, policies, form requests, paginação e autorização.</p>
       <p><strong>Tecnologias:</strong> Laravel, PHP, MySQL, Blade, Chart.js.</p>
@@ -130,7 +123,7 @@ Atualmente busco minha primeira oportunidade como Desenvolvedor Backend, constru
   </tr>
   <tr>
     <td>
-      <h3>Corte Azul TEA</h3>
+      <h3>Corte Azul T.E.A</h3>
       <p>Website institucional desenvolvido para cliente, com foco em apresentação profissional, navegação objetiva e presença digital responsiva.</p>
       <p><strong>Funcionalidades:</strong> página institucional, estrutura responsiva, organização de conteúdo e interface orientada à comunicação do cliente.</p>
       <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript.</p>
@@ -143,7 +136,7 @@ Atualmente busco minha primeira oportunidade como Desenvolvedor Backend, constru
 
 ---
 
-## Atualmente estudando
+## Atualmente Estudando
 
 <p>
   <img src="https://img.shields.io/badge/Arquitetura%20de%20Software-111827?style=for-the-badge" alt="Arquitetura de Software" />
