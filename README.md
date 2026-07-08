@@ -106,7 +106,7 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
       <p><strong>Funcionalidades:</strong> login, registro, dashboard, receitas, despesas, categorias, relatórios, gráficos, policies, form requests, paginação e autorização.</p>
       <p><strong>Tecnologias:</strong> Laravel, PHP, MySQL, Blade, Chart.js.</p>
       <p>
-        <a href="https://github.com/SEU_USUARIO/saldo-pro">
+        <a href="https://github.com/NatanLuz/saldo-pro">
           <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Saldo Pro" />
         </a>
         <a href="https://seu-dominio.com/saldo-pro">
@@ -128,7 +128,7 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
       <p><strong>Funcionalidades:</strong> login, dashboard, clientes, pets, serviços, agendamentos, usuários, CRUD, controle de sessão, segurança e histórico.</p>
       <p><strong>Tecnologias:</strong> PHP, MySQL, JavaScript, Chart.js.</p>
       <p>
-        <a href="https://github.com/SEU_USUARIO/petsystem">
+        <a href="https://github.com/NatanLuz/petsystem">
           <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do PetSystem" />
         </a>
         <a href="https://seu-dominio.com/petsystem">
@@ -150,7 +150,7 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
       <p><strong>Funcionalidades:</strong> página institucional, estrutura responsiva, organização de conteúdo e interface orientada à comunicação do cliente.</p>
       <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript.</p>
       <p>
-        <a href="https://github.com/SEU_USUARIO/corte-azul-tea">
+        <a href="https://github.com/NatanLuz/corte-azul-tea">
           <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Corte Azul TEA" />
         </a>
         <a href="https://seu-dominio.com/corte-azul-tea">
@@ -183,18 +183,18 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NatanLuz&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=default&hide_border=true" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatanLuz&theme=default&hide_border=true" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanLuz&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-light&hide_border=true" alt="Contribution Graph" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=NatanLuz&theme=github-light&hide_border=true" alt="Contribution Graph" width="100%" />
     </td>
   </tr>
 </table>
@@ -203,24 +203,20 @@ Atualmente sigo estudando tecnologias e práticas que fortalecem a qualidade de 
 
 ## Contato
 
-<table>
-  <tr>
-    <td><strong>LinkedIn</strong></td>
-    <td><a href="https://www.linkedin.com/in/SEU_LINKEDIN">linkedin.com/in/SEU_LINKEDIN</a></td>
-  </tr>
-  <tr>
-    <td><strong>Portfólio</strong></td>
-    <td><a href="https://SEU_PORTFOLIO.com">SEU_PORTFOLIO.com</a></td>
-  </tr>
-  <tr>
-    <td><strong>Email</strong></td>
-    <td><a href="mailto:SEU_EMAIL@dominio.com">SEU_EMAIL@dominio.com</a></td>
-  </tr>
-  <tr>
-    <td><strong>GitHub</strong></td>
-    <td><a href="https://github.com/SEU_USUARIO">github.com/SEU_USUARIO</a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/NatanLuz">
+    <img src="https://img.shields.io/badge/GitHub-NatanLuz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Natan Luz" />
+  </a>
+  <a href="https://www.linkedin.com/in/natandaluz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Natan%20da%20Luz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Natan da Luz" />
+  </a>
+  <a href="https://portfolionatan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio de Natan Luz" />
+  </a>
+  <a href="mailto:natandaluz01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Enviar%20mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Natan Luz" />
+  </a>
+</p>
 
 ---
 
