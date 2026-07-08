@@ -3,9 +3,10 @@
 ## Desenvolvedor Backend - PHP | Laravel | JavaScript | REST APIs | MySQL
 
 <p>
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-2F3340?style=for-the-badge" alt="Backend PHP e Laravel" />
-  <img src="https://img.shields.io/badge/APIs-REST-0F766E?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Database-MySQL-1D4ED8?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-111827?style=for-the-badge" alt="Backend PHP e Laravel" />
+  <img src="https://img.shields.io/badge/APIs-REST-111827?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Database-MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Focus-Clean%20Backend-111827?style=for-the-badge" alt="Clean Backend" />
 </p>
 
 ---
@@ -14,13 +15,13 @@
 
 Olá, eu sou o Natan, Desenvolvedor Backend com foco em PHP, Laravel, JavaScript, APIs REST e MySQL.
 
-Gosto de desenvolver sistemas orientados a regras de negócio e valorizo código organizado, seguro, escalável e fácil de manter. Tenho interesse especial por arquitetura de software, modelagem de dados, validação, autorização, segurança e boas práticas no desenvolvimento backend.
+Gosto de desenvolver sistemas orientados a regras de negócio e valorizo código organizado, seguro, escalável e fácil de manter. Tenho interesse especial em arquitetura de software, modelagem de dados, validação, autorização, segurança e boas práticas de desenvolvimento backend.
 
-Continuo aprimorando meus conhecimentos para construir soluções consistentes e preparadas para crescer de forma sustentável.
+Busco aprimorar continuamente meus conhecimentos para construir soluções consistentes e preparadas para crescer de forma sustentável.
 
 ---
 
-## Tecnologias
+## Minha Stack
 
 <table>
   <tr>
@@ -66,7 +67,7 @@ Continuo aprimorando meus conhecimentos para construir soluções consistentes e
   </tr>
 </table>
 
-## Conhecimentos aplicados
+### Conhecimentos aplicados
 
 <p>
   <img src="https://img.shields.io/badge/CRUD-111827?style=flat-square" alt="CRUD" />
@@ -86,19 +87,23 @@ Continuo aprimorando meus conhecimentos para construir soluções consistentes e
 
 <table>
   <tr>
-    <td width="38%" valign="top">
+    <td>
       <img src="./meusaldocerto.png" alt="Screenshot do projeto Meu Saldo Certo" width="100%" />
     </td>
-    <td width="62%" valign="top">
+  </tr>
+  <tr>
+    <td>
       <h3>Meu Saldo Certo</h3>
       <p>Sistema financeiro desenvolvido com Laravel, focado em controle de receitas, despesas, categorias, relatórios e visualização de dados em dashboard.</p>
       <p><strong>Funcionalidades:</strong> login, registro, dashboard, receitas, despesas, categorias, relatórios, gráficos, policies, form requests, paginação e autorização.</p>
       <p><strong>Tecnologias:</strong> Laravel, PHP, MySQL, Blade, Chart.js.</p>
       <p>
         <a href="https://github.com/NatanLuz/meu-saldo-certo">
-          <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Meu Saldo Certo" />
+          <img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código do Meu Saldo Certo no GitHub" />
         </a>
-      
+        <a href="https://meu-saldo-certo-production.up.railway.app/">
+          <img src="https://img.shields.io/badge/Demo-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demonstração do Meu Saldo Certo" />
+        </a>
       </p>
     </td>
   </tr>
@@ -106,19 +111,21 @@ Continuo aprimorando meus conhecimentos para construir soluções consistentes e
 
 <table>
   <tr>
-    <td width="38%" valign="top">
+    <td>
       <img src="./petsystem.png" alt="Screenshot do projeto PetSystem" width="100%" />
     </td>
-    <td width="62%" valign="top">
+  </tr>
+  <tr>
+    <td>
       <h3>PetSystem</h3>
       <p>Sistema completo para petshops e clínicas veterinárias, com foco em gestão de clientes, pets, serviços, agendamentos e histórico operacional.</p>
       <p><strong>Funcionalidades:</strong> login, dashboard, clientes, pets, serviços, agendamentos, usuários, CRUD, controle de sessão, segurança e histórico.</p>
       <p><strong>Tecnologias:</strong> PHP, MySQL, JavaScript, Chart.js.</p>
       <p>
         <a href="https://github.com/NatanLuz/petsystem">
-          <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do PetSystem" />
+          <img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código do PetSystem no GitHub" />
         </a>
-      
+       
       </p>
     </td>
   </tr>
@@ -126,17 +133,19 @@ Continuo aprimorando meus conhecimentos para construir soluções consistentes e
 
 <table>
   <tr>
-    <td width="38%" valign="top">
+    <td>
       <img src="./corteazultea.png" alt="Screenshot do projeto Corte Azul TEA" width="100%" />
     </td>
-    <td width="62%" valign="top">
-      <h3>Corte Azul T.E.A</h3>
+  </tr>
+  <tr>
+    <td>
+      <h3>Corte Azul TEA</h3>
       <p>Website institucional desenvolvido para cliente, com foco em apresentação profissional, navegação objetiva e presença digital responsiva.</p>
       <p><strong>Funcionalidades:</strong> página institucional, estrutura responsiva, organização de conteúdo e interface orientada à comunicação do cliente.</p>
       <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript.</p>
       <p>
         <a href="https://github.com/NatanLuz/corte-azul-tea">
-          <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Corte Azul TEA" />
+          <img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código do Corte Azul TEA no GitHub" />
         </a>
         
       </p>
@@ -146,7 +155,7 @@ Continuo aprimorando meus conhecimentos para construir soluções consistentes e
 
 ---
 
-## Atualmente Estudando
+## Atualmente estudando
 
 <p>
   <img src="https://img.shields.io/badge/Arquitetura%20de%20Software-111827?style=for-the-badge" alt="Arquitetura de Software" />
@@ -185,5 +194,5 @@ Continuo aprimorando meus conhecimentos para construir soluções consistentes e
 ---
 
 <p align="center">
-  Obrigado pela visita !
+  Obrigado pela visita. Meu foco é construir software backend com clareza, segurança e responsabilidade técnica.
 </p>
