@@ -93,7 +93,6 @@ Atualmente busco minha primeira oportunidade como Desenvolvedor Backend, constru
       <p><strong>Funcionalidades:</strong> login, registro, dashboard, receitas, despesas, categorias, relatórios, gráficos, policies, form requests, paginação e autorização.</p>
       <p><strong>Tecnologias:</strong> Laravel, PHP, MySQL, Blade, Chart.js.</p>
       <a href="https://meu-saldo-certo-production.up.railway.app/">
-        <img src="https://img.shields.io/badge/Demo-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demonstração do Meu Saldo Certo" />
       </a>
     </td>
   </tr>
