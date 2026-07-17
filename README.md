@@ -1,6 +1,6 @@
 # Natan Da Luz Cândido
 
-## Desenvolvedor Backend - PHP | Laravel | JavaScript | REST APIs | MySQL
+## Desenvolvedor Backend
 
 <p>
   <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-111827?style=for-the-badge" alt="Backend PHP e Laravel" />
