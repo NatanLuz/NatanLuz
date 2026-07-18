@@ -78,7 +78,7 @@ Atualmente busco minha primeira oportunidade como Desenvolvedor Backend, constru
 
 ---
 
-## Projetos em destaque
+## Projetos
 
 <table>
   <tr>
