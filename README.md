@@ -1,4 +1,4 @@
-# Natan Da Luz Cândido
+# Natan Da Luz
 
 ## Desenvolvedor Backend
 
