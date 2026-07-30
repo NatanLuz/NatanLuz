@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Olá, eu sou o Natan, Desenvolvedor Backend com foco em PHP, Laravel, JavaScript, APIs REST e MySQL. Gosto de desenvolver sistemas e valorizo código organizado, seguro, escalável e fácil de manter. Tenho interesse especial em arquitetura de software, modelagem de dados, validação, autorização, segurança e boas práticas de desenvolvimento backend. Busco aprimorar continuamente meus conhecimentos para construir soluções consistentes e preparadas para crescer de forma sustentável.
+Olá, me chamo Natan, Desenvolvedor Backend com foco em PHP, Laravel, JavaScript, APIs REST e MySQL. Gosto de desenvolver sistemas e valorizo código organizado, seguro, escalável e fácil de manter. Tenho interesse especial em arquitetura de software, modelagem de dados, validação, autorização, segurança e boas práticas de desenvolvimento backend. Busco aprimorar continuamente meus conhecimentos para construir soluções consistentes e preparadas para crescer de forma sustentável.
 
 ---
 
