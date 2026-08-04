@@ -142,5 +142,5 @@ Olá tudo bem ? Me chamo Natan, Desenvolvedor Backend com foco em PHP, Laravel, 
 ---
 
 <p align="center">
-  Obrigado pela visita. Meu foco é construir software backend com clareza, segurança e responsabilidade técnica.
+  Obrigado pela visita. Meu foco é construir software com clareza, segurança e responsabilidade técnica.
 </p>
