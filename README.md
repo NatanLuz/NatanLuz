@@ -1,121 +1,117 @@
+<div align="center">
+
 # Natan Da Luz
 
-## Desenvolvedor Backend
+**Desenvolvedor de Software**
 
-<p>
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-111827?style=for-the-badge" alt="Backend PHP e Laravel" />
-  <img src="https://img.shields.io/badge/APIs-REST-111827?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Database-MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+</div>
 
 ---
 
 ## Sobre mim
 
-Olá tudo bem ? Me chamo Natan, Desenvolvedor Backend com foco em PHP, Laravel, JavaScript, APIs REST e MySQL. Gosto de desenvolver sistemas e valorizo código organizado, seguro, escalável e fácil de manter. Tenho interesse especial em arquitetura de software, modelagem de dados, validação, autorização, segurança e boas práticas de desenvolvimento backend. Busco aprimorar continuamente meus conhecimentos para construir soluções consistentes e preparadas para crescer de forma sustentável.
+Desenvolvedor de Software com foco em backend, atuando na construção de sistemas web e APIs. Tenho interesse especial em arquitetura de software, modelagem de dados, validação, autorização e segurança, sempre priorizando código organizado, escalável e fácil de manter. Também possuo conhecimento complementar em Frontend, aplicado quando o projeto exige integração completa entre as camadas. Busco evoluir continuamente minhas práticas de desenvolvimento para construir soluções consistentes e preparadas para crescer de forma sustentável.
 
 ---
 
-## Minha Stack
+## Tecnologias
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Backend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square" alt="REST APIs" />
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Banco de dados</h3>
-      <p>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-        <img src="https://img.shields.io/badge/Modelagem-374151?style=flat-square" alt="Modelagem de dados" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Frontend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Ferramentas</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-      </p>
-    </td>
-  </tr>
-</table>
+### Backend
+Base do meu trabalho: construção de APIs REST e regras de negócio com PHP e Laravel.
+
+<img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP, Laravel" />
+
+### Banco de Dados
+Modelagem, relacionamentos e consultas com foco em performance e integridade dos dados.
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="MySQL, SQLite" />
+
+### Frontend
+Conhecimento complementar, usado para integrar e finalizar as interfaces dos sistemas.
+
+<img src="https://skillicons.dev/icons?i=html,css,js,laravel,tailwind" alt="HTML, CSS, JavaScript, Blade, Tailwind CSS" />
+
+### Ferramentas
+Versionamento, ambiente de desenvolvimento e sistema operacional utilizados no dia a dia.
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux, VS Code" />
 
 ---
 
 ## Projetos
 
-<table>
-  <tr>
-    <td>
-      <img src="./meusaldocerto.png" alt="Screenshot do projeto Meu Saldo Certo" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>MeuSaldoCerto</h3>
-      <p>Sistema financeiro desenvolvido com Laravel, focado em controle de receitas, despesas, categorias, relatórios e visualização de dados em dashboard.</p>
-      <p><strong>Funcionalidades:</strong> login, registro, dashboard, receitas, despesas, categorias, relatórios, gráficos, policies, form requests, paginação e autorização.</p>
-      <p><strong>Tecnologias:</strong> Laravel, PHP, MySQL, Blade, Chart.js.</p>
-      <a href="https://meu-saldo-certo-production.up.railway.app/">
-      </a>
-    </td>
-  </tr>
-</table>
+### MeuSaldoCerto
 
-<table>
-  <tr>
-    <td>
-      <img src="./petsystem.png" alt="Screenshot do projeto PetSystem" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>PetSystem</h3>
-      <p>Sistema completo para petshops e clínicas veterinárias, com foco em gestão de clientes, pets, serviços, agendamentos e histórico operacional.</p>
-      <p><strong>Funcionalidades:</strong> login, dashboard, clientes, pets, serviços, agendamentos, usuários, CRUD, controle de sessão, segurança e histórico.</p>
-      <p><strong>Tecnologias:</strong> PHP, MySQL, JavaScript, Chart.js.</p>
-    </td>
-  </tr>
-</table>
+<img src="./meusaldocerto.png" alt="Screenshot do projeto MeuSaldoCerto" width="100%" />
 
-<table>
-  <tr>
-    <td>
-      <img src="./corteazultea.png" alt="Screenshot do projeto Corte Azul TEA" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Corte Azul T.E.A</h3>
-      <p>Website institucional desenvolvido para cliente, com foco em apresentação profissional, navegação objetiva e presença digital responsiva.</p>
-      <p><strong>Funcionalidades:</strong> página institucional, estrutura responsiva, organização de conteúdo e interface orientada à comunicação do cliente.</p>
-      <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript.</p>
-      <a href="https://projeto-corte-azul-tea.vercel.app/">
-        <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visitar%20Site-0F766E?style=for-the-badge" alt="Visitar site do Corte Azul TEA" />
-      </a>
-    </td>
-  </tr>
-</table>
+Sistema financeiro desenvolvido com Laravel, focado em controle de receitas, despesas, categorias, relatórios e visualização de dados em dashboard.
+
+**Principais funcionalidades**
+- Login e registro de usuários
+- Dashboard com indicadores
+- Cadastro de receitas, despesas e categorias
+- Relatórios e gráficos
+- Policies, form requests, paginação e autorização
+
+**Tecnologias**
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql" alt="Laravel, PHP, MySQL" />
+
+[**Demo**](https://meu-saldo-certo-production.up.railway.app/)
+
+---
+
+### PetSystem
+
+<img src="./petsystem.png" alt="Screenshot do projeto PetSystem" width="100%" />
+
+Sistema completo para petshops e clínicas veterinárias, com foco em gestão de clientes, pets, serviços, agendamentos e histórico operacional.
+
+**Principais funcionalidades**
+- Login e dashboard
+- Cadastro de clientes e pets
+- Gestão de serviços e agendamentos
+- Controle de usuários e sessões
+- CRUD completo com histórico e segurança
+
+**Tecnologias**
+
+<img src="https://skillicons.dev/icons?i=php,mysql,js" alt="PHP, MySQL, JavaScript" />
+
+---
+
+### Corte Azul T.E.A
+
+<img src="./corteazultea.png" alt="Screenshot do projeto Corte Azul T.E.A" width="100%" />
+
+Website institucional desenvolvido para cliente, com foco em apresentação profissional, navegação objetiva e presença digital responsiva.
+
+**Principais funcionalidades**
+- Página institucional
+- Estrutura responsiva
+- Organização de conteúdo
+- Interface orientada à comunicação com o cliente
+
+**Tecnologias**
+
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
+
+[**Visitar site**](https://projeto-corte-azul-tea.vercel.app/)
+
+---
+
+## Estatísticas do GitHub
+
+> Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub.
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+
+</div>
+
+---
 
 ## Contato
 
