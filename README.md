@@ -131,23 +131,6 @@ Olá tudo bem ? Me chamo Natan, Desenvolvedor Backend com foco em PHP, Laravel, 
   </tr>
 </table>
 
----
-
-## Atualmente Estudando
-
-<p>
-  <img src="https://img.shields.io/badge/Arquitetura%20de%20Software-111827?style=for-the-badge" alt="Arquitetura de Software" />
-  <img src="https://img.shields.io/badge/SOLID-111827?style=for-the-badge" alt="SOLID" />
-  <img src="https://img.shields.io/badge/Clean%20Code-111827?style=for-the-badge" alt="Clean Code" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Testes%20Automatizados-111827?style=for-the-badge" alt="Testes Automatizados" />
-  <img src="https://img.shields.io/badge/Laravel%20Avan%C3%A7ado-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Avançado" />
-  <img src="https://img.shields.io/badge/APIs%20REST-0F766E?style=for-the-badge" alt="APIs REST" />
-  <img src="https://img.shields.io/badge/Design%20Patterns-111827?style=for-the-badge" alt="Design Patterns" />
-</p>
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natandaluz/)
