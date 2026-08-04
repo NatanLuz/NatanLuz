@@ -60,20 +60,6 @@ Olá tudo bem ? Me chamo Natan, Desenvolvedor Backend com foco em PHP, Laravel, 
   </tr>
 </table>
 
-### Conhecimentos
-
-<p>
-  <img src="https://img.shields.io/badge/CRUD-111827?style=flat-square" alt="CRUD" />
-  <img src="https://img.shields.io/badge/Autentica%C3%A7%C3%A3o-111827?style=flat-square" alt="Autenticação" />
-  <img src="https://img.shields.io/badge/Autoriza%C3%A7%C3%A3o-111827?style=flat-square" alt="Autorização" />
-  <img src="https://img.shields.io/badge/Policies-111827?style=flat-square" alt="Policies" />
-  <img src="https://img.shields.io/badge/Form%20Requests-111827?style=flat-square" alt="Form Requests" />
-  <img src="https://img.shields.io/badge/Seguran%C3%A7a-111827?style=flat-square" alt="Segurança" />
-  <img src="https://img.shields.io/badge/XSS-111827?style=flat-square" alt="XSS" />
-  <img src="https://img.shields.io/badge/Prepared%20Statements-111827?style=flat-square" alt="Prepared Statements" />
-  <img src="https://img.shields.io/badge/Arquitetura%20em%20Camadas-111827?style=flat-square" alt="Arquitetura em Camadas" />
-</p>
-
 ---
 
 ## Projetos
