@@ -2,7 +2,7 @@
 
 # Natan Da Luz
 
-**Desenvolvedor de Software** · PHP | Laravel | JavaScript | MySQL | PostgreSQL | Docker
+**Desenvolvedor de software** · PHP | Laravel | JavaScript | MySQL | PostgreSQL | Docker
 
 </div>
 
@@ -17,22 +17,18 @@ Desenvolvedor de Software com foco em backend, atuando na construção de sistem
 ## Tecnologias
 
 ### Backend
-Base do meu trabalho: construção de APIs REST e regras de negócio com PHP e Laravel.
 
 <img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP, Laravel" />
 
 ### Banco de Dados
-Modelagem, relacionamentos e consultas com foco em performance e integridade dos dados.
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="MySQL, PostgreSQL, SQLite" />
 
 ### Frontend
-Conhecimento complementar, usado para integrar e finalizar as interfaces dos sistemas.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,laravel,tailwind" alt="HTML, CSS, JavaScript, Blade, Tailwind CSS" />
 
 ### Ferramentas
-Versionamento, ambiente de desenvolvimento e sistema operacional utilizados no dia a dia.
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Git, GitHub, Docker, Linux, VS Code" />
 
@@ -97,6 +93,17 @@ Website institucional desenvolvido para cliente, com foco em apresentação prof
 <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
 
 [**Visitar site**](https://projeto-corte-azul-tea.vercel.app/)
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NatanLuz&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanLuz&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+
+</div>
 
 ---
 
