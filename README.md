@@ -1,10 +1,122 @@
-<h1 align="center">Hi 👋, I'm Natan Da Luz</h1>
-<h3 align="center">Desenvolvedor De Software</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/natandaluz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/natandaluz/" height="30" width="40" /></a>
+# Natan Da Luz
+
+**Desenvolvedor de software** · PHP | Laravel | JavaScript | MySQL | PostgreSQL | Docker
+
+</div>
+
+---
+
+## Sobre mim
+
+Desenvolvedor de Software com foco em backend, atuando na construção de sistemas web e APIs. Tenho interesse especial em arquitetura de software, modelagem de dados, validação, autorização e segurança, sempre priorizando código organizado, escalável e fácil de manter. Também possuo conhecimento complementar em Frontend, aplicado quando o projeto exige integração completa entre as camadas. Busco evoluir continuamente minhas práticas de desenvolvimento para construir soluções consistentes e preparadas para crescer de forma sustentável.
+
+---
+
+## Tecnologias
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP, Laravel" />
+
+### Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="MySQL, PostgreSQL, SQLite" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,laravel,tailwind" alt="HTML, CSS, JavaScript, Blade, Tailwind CSS" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Git, GitHub, Docker, Linux, VS Code" />
+
+---
+
+## Projetos
+
+### MeuSaldoCerto
+
+<img src="./meusaldocerto.png" alt="Screenshot do projeto MeuSaldoCerto" width="100%" />
+
+Sistema financeiro desenvolvido com Laravel, focado em controle de receitas, despesas, categorias, relatórios e visualização de dados em dashboard.
+
+**Principais funcionalidades**
+- Login e registro de usuários
+- Dashboard com indicadores
+- Cadastro de receitas, despesas e categorias
+- Relatórios e gráficos
+- Policies, form requests, paginação e autorização
+
+**Tecnologias**
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql" alt="Laravel, PHP, MySQL" />
+
+[**Demo**](https://meu-saldo-certo-production.up.railway.app/)
+
+---
+
+### PetSystem
+
+<img src="./petsystem.png" alt="Screenshot do projeto PetSystem" width="100%" />
+
+Sistema completo para petshops e clínicas veterinárias, com foco em gestão de clientes, pets, serviços, agendamentos e histórico operacional.
+
+**Principais funcionalidades**
+- Login e dashboard
+- Cadastro de clientes e pets
+- Gestão de serviços e agendamentos
+- Controle de usuários e sessões
+- CRUD completo com histórico e segurança
+
+**Tecnologias**
+
+<img src="https://skillicons.dev/icons?i=php,mysql,js" alt="PHP, MySQL, JavaScript" />
+
+---
+
+### Corte Azul T.E.A
+
+<img src="./corteazultea.png" alt="Screenshot do projeto Corte Azul T.E.A" width="100%" />
+
+Website institucional desenvolvido para cliente, com foco em apresentação profissional, navegação objetiva e presença digital responsiva.
+
+**Principais funcionalidades**
+- Página institucional
+- Estrutura responsiva
+- Organização de conteúdo
+- Interface orientada à comunicação com o cliente
+
+**Tecnologias**
+
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
+
+[**Visitar site**](https://projeto-corte-azul-tea.vercel.app/)
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NatanLuz&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanLuz&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+
+</div>
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natandaluz/)
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolionatan.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natandaluz01@gmail.com)
+
+---
+
+<p align="center">
+  Obrigado pela visita. Meu foco é construir software com clareza, segurança e responsabilidade técnica.
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
