@@ -8,7 +8,9 @@
 
 ###
 
-<p data-importer="text" align="left">Desenvolvedor de Software com foco em backend, atuando na construção de sistemas web e APIs. Tenho interesse especial em arquitetura de software, modelagem de dados, validação, autorização e segurança, sempre priorizando código organizado, escalável e fácil de manter.  Também possuo conhecimento complementar em Frontend, aplicado quando o projeto exige integração completa entre as camadas. Busco evoluir continuamente minhas práticas de desenvolvimento para construir soluções consistentes e preparadas para crescer de forma sustentável.</p>
+<p data-importer="text" align="left"> OLÁ SEJA BEM VINDO
+  
+  Desenvolvedor de Software com foco em backend, atuando na construção de sistemas web e APIs. Tenho interesse especial em arquitetura de software, modelagem de dados, validação, autorização e segurança, sempre priorizando código organizado, escalável e fácil de manter.  Também possuo conhecimento complementar em Frontend, aplicado quando o projeto exige integração completa entre as camadas. Busco evoluir continuamente minhas práticas de desenvolvimento para construir soluções consistentes e preparadas para crescer de forma sustentável.</p>
 
 ###
 
