@@ -1,122 +1,46 @@
-<div align="center">
-
-# Natan Da Luz
-
-**Desenvolvedor de software** · PHP | Laravel | JavaScript | MySQL | PostgreSQL | Docker
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
----
+###
 
-## Sobre mim
-
-Desenvolvedor de Software com foco em backend, atuando na construção de sistemas web e APIs. Tenho interesse especial em arquitetura de software, modelagem de dados, validação, autorização e segurança, sempre priorizando código organizado, escalável e fácil de manter. Também possuo conhecimento complementar em Frontend, aplicado quando o projeto exige integração completa entre as camadas. Busco evoluir continuamente minhas práticas de desenvolvimento para construir soluções consistentes e preparadas para crescer de forma sustentável.
-
----
-
-## Tecnologias
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP, Laravel" />
-
-### Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="MySQL, PostgreSQL, SQLite" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,laravel,tailwind" alt="HTML, CSS, JavaScript, Blade, Tailwind CSS" />
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Git, GitHub, Docker, Linux, VS Code" />
-
----
-
-## Projetos
-
-### MeuSaldoCerto
-
-<img src="./meusaldocerto.png" alt="Screenshot do projeto MeuSaldoCerto" width="100%" />
-
-Sistema financeiro desenvolvido com Laravel, focado em controle de receitas, despesas, categorias, relatórios e visualização de dados em dashboard.
-
-**Principais funcionalidades**
-- Login e registro de usuários
-- Dashboard com indicadores
-- Cadastro de receitas, despesas e categorias
-- Relatórios e gráficos
-- Policies, form requests, paginação e autorização
-
-**Tecnologias**
-
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql" alt="Laravel, PHP, MySQL" />
-
-[**Demo**](https://meu-saldo-certo-production.up.railway.app/)
-
----
-
-### PetSystem
-
-<img src="./petsystem.png" alt="Screenshot do projeto PetSystem" width="100%" />
-
-Sistema completo para petshops e clínicas veterinárias, com foco em gestão de clientes, pets, serviços, agendamentos e histórico operacional.
-
-**Principais funcionalidades**
-- Login e dashboard
-- Cadastro de clientes e pets
-- Gestão de serviços e agendamentos
-- Controle de usuários e sessões
-- CRUD completo com histórico e segurança
-
-**Tecnologias**
-
-<img src="https://skillicons.dev/icons?i=php,mysql,js" alt="PHP, MySQL, JavaScript" />
-
----
-
-### Corte Azul T.E.A
-
-<img src="./corteazultea.png" alt="Screenshot do projeto Corte Azul T.E.A" width="100%" />
-
-Website institucional desenvolvido para cliente, com foco em apresentação profissional, navegação objetiva e presença digital responsiva.
-
-**Principais funcionalidades**
-- Página institucional
-- Estrutura responsiva
-- Organização de conteúdo
-- Interface orientada à comunicação com o cliente
-
-**Tecnologias**
-
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
-
-[**Visitar site**](https://projeto-corte-azul-tea.vercel.app/)
-
----
-
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NatanLuz&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanLuz&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
-
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
----
+###
 
-## Contato
+<h3 data-importer="text" align="left">Sobre Mim👩‍💻</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natandaluz/)
+###
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolionatan.vercel.app/)
+<p data-importer="text" align="left">Desenvolvedor de Software com foco em backend, atuando na construção de sistemas web e APIs. Tenho interesse especial em arquitetura de software, modelagem de dados, validação, autorização e segurança, sempre priorizando código organizado, escalável e fácil de manter. Também possuo conhecimento complementar em Frontend, aplicado quando o projeto exige integração completa entre as camadas. Busco evoluir continuamente minhas práticas de desenvolvimento para construir soluções consistentes e preparadas para crescer de forma sustentável.</p>
 
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natandaluz01@gmail.com)
+###
 
----
+<h3 data-importer="text" align="left">Linguagens e Ferramentas 🛠</h3>
 
-<p align="center">
-  Obrigado pela visita. Meu foco é construir software com clareza, segurança e responsabilidade técnica.
-</p>
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
+
+###
