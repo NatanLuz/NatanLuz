@@ -100,17 +100,6 @@ Website institucional desenvolvido para cliente, com foco em apresentação prof
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NatanLuz&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanLuz&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
-
-</div>
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natandaluz/)
