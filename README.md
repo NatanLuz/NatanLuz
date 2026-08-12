@@ -8,7 +8,7 @@ Possuo também conhecimento complementar em Frontend, aplicado quando o projeto 
 </p>
 
 <p align="center">
-🌍 Baseado em Santa Catarina &nbsp;|&nbsp; 🧠 Atualmente aprendendo PostgreSQL & React
+🌍 Santa Catarina &nbsp;|&nbsp; 🧠 Atualmente aprendendo PostgreSQL & React
 </p>
 
 <h3 align="center">Tecnologias</h3>
@@ -38,8 +38,6 @@ Possuo também conhecimento complementar em Frontend, aplicado quando o projeto 
   <a href="https://www.linkedin.com/in/natandaluz/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://github.com/NatanLuz" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo" />
   </a>
   <a href="https://portfolionatan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="portfolio link" />
