@@ -8,7 +8,7 @@ Possuo também conhecimento complementar em Frontend, aplicado quando o projeto 
 </p>
 
 <p align="center">
- &nbsp;|&nbsp; 🧠 Atualmente aprendendo PostgreSQL & React
+ &nbsp;&nbsp; 🧠 Atualmente aprendendo PostgreSQL & React
 </p>
 
 <h3 align="center">Tecnologias</h3>
