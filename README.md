@@ -5,7 +5,7 @@ Sou Desenvolvedor de Software com foco em backend, atuando na construção de si
 
 Possuo também conhecimento complementar em Frontend, aplicado quando o projeto exige integração completa entre as camadas. Busco evoluir continuamente minhas práticas de desenvolvimento, construindo soluções consistentes e preparadas para crescer de forma sustentável.
 
-* 🌍  Santa Catarina
+* 🌍  Estou baseado em Santa Catarina
 * 🖥️  Veja meu portfólio em [https://portfolionatan.vercel.app/](http://portfolionatan.vercel.app/)
 * ✉️  Você pode entrar em contato comigo em [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
 * 🧠  Atualmente estou aprendendo PostgreSQL & React
