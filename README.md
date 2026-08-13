@@ -7,13 +7,7 @@ Sou Desenvolvedor de Software com foco em backend, atuando na construção de si
 Possuo também conhecimento complementar em Frontend, aplicado quando o projeto exige integração completa entre as camadas. Busco evoluir continuamente minhas práticas de desenvolvimento, construindo soluções consistentes e preparadas para crescer de forma sustentável.
 </p>
 
-<p align="center">
- &nbsp;&nbsp; 🧠 Atualmente aprendendo PostgreSQL & React
-</p>
-
-
 <h3 align="center">Tecnologias</h3>
-
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
