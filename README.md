@@ -1,4 +1,4 @@
-<h1 align="center">Olá, seja Bem-Vindo (a)</h1>
+<h1 align="center">Olá, Seja Bem-Vindo (a)</h1>
 <h3 align="center">Meu chamo Natan Da Luz Cândido</h3>
 
 <p align="center">
