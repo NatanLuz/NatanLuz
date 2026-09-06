@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Seja Bem-Vindo (a)</h1>
-<h3 align="center">Meu chamo Natan Da Luz Cândido</h3>
+<h3 align="center">Me chamo Natan Da Luz Cândido</h3>
 <p align="center">
 Sou Desenvolvedor de Software com foco em backend, atuando na construção de Sistemas, Web, API's etc... Tenho interesse especial em arquitetura de software, modelagem de dados, validação, autorização e segurança, sempre priorizando código organizado, escalável e fácil de manter. Possuo também conhecimento complementar em Frontend, aplicado quando o projeto exige integração completa entre as camadas. Busco evoluir continuamente minhas práticas de desenvolvimento, construindo soluções consistentes e preparadas para crescer de forma sustentável.
 </p>
