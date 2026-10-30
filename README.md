@@ -23,8 +23,7 @@ Atualmente curso Bacharelado em Sistemas de Informação e sigo aprofundando meu
 </p>
 <p align="center">
 <a href="https://portfolionatan.vercel.app">Portfólio</a> •
-<a href="https://github.com/NatanLuz">GitHub</a> •
-<a href="https://www.linkedin.com/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/natandaluz/">LinkedIn</a>
 </p>
 <h3 align="center">Tecnologias</h3>
 <p align="center">
