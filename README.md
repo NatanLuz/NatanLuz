@@ -19,9 +19,6 @@ Tenho experiência com React, JavaScript, HTML5 e CSS3 no desenvolvimento de int
 Atualmente curso Bacharelado em Sistemas de Informação e sigo aprofundando meus conhecimentos em arquitetura de aplicações, testes, bancos de dados e boas práticas de engenharia de software.
 </p>
 <p align="center">
-<strong>Foco profissional:</strong> Desenvolvimento Backend | PHP | Laravel | MySQL
-</p>
-<p align="center">
 <a href="https://portfolionatan.vercel.app">Portfólio</a> •
 <a href="https://www.linkedin.com/in/natandaluz/">LinkedIn</a>
 </p>
