@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Natan da Luz Cândido 👋</h1>
+<h1 align="center">Olá me chamo Natan da Luz Cândido 👋</h1>
 
 <h3 align="center">Desenvolvedor de Software | Backend PHP & Laravel | APIs REST</h3>
 
