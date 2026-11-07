@@ -2,14 +2,6 @@
 
 <h3 align="center">Desenvolvedor de Software | Backend PHP & Laravel | APIs REST</h3>
 
-<p align="center">
-  <a href="https://portfolionatan.vercel.app">Portfólio</a> •
-  <a href="https://www.linkedin.com/in/natandaluz/">LinkedIn</a> •
-  <a href="mailto:natandaluz01@gmail.com">E-mail</a>
-</p>
-
----
-
 ## Sobre mim 👨‍💻
 
 Sou desenvolvedor de software **backend**, trabalhando com **PHP, Laravel e MySQL** na construção de aplicações web, APIs e soluções orientadas a regras de negócio.
