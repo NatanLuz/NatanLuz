@@ -10,23 +10,19 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim 👨‍💻
 
-Sou desenvolvedor de software com foco em **backend**, trabalhando principalmente com **PHP, Laravel e MySQL** na construção de aplicações web, APIs REST e soluções orientadas a regras de negócio.
+Sou desenvolvedor de software **backend**, trabalhando com **PHP, Laravel e MySQL** na construção de aplicações web, APIs e soluções orientadas a regras de negócio.
 
-Tenho experiência prática em sistemas de **gestão, agendamento e controle financeiro**, incluindo **projetos freelance para clientes reais** e aplicações autorais. No dia a dia aplico MVC, autenticação, autorização, validação de dados, modelagem relacional e integração entre frontend e backend.
-
-Atualmente atuo como **Operador de Sistemas na Confidence Monitoramento 24 Horas**, com monitoramento de ambientes de produção, suporte técnico, análise de incidentes e troubleshooting. Essa vivência fortalece minha capacidade de investigar problemas e resolvê-los com agilidade.
-
-Curso **Bacharelado em Sistemas de Informação** e busco evoluir continuamente.
+Tenho experiência prática em sistemas de **gestão, agendamento e controle financeiro**, incluindo **projetos freelance para clientes reais** e aplicações autorais. No dia a dia aplico MVC, autenticação, autorização, validação de dados, modelagem relacional e integração entre frontend e backend. Curso **Bacharelado em Sistemas de Informação** e busco evoluir continuamente.
 
 ## 🌱 Foco atual
 
-- 🧱 Arquitetura de software
-- 🧪 Testes automatizados
-- 🔌 APIs e documentação
-- 🗄️ Banco de dados
-- ✅ Boas práticas de desenvolvimento backend
+- Arquitetura de software
+- Testes automatizados
+- APIs e documentação
+- Banco de dados
+- Boas práticas de desenvolvimento backend
 
 ## 🛠️ Tecnologias
 
@@ -46,13 +42,13 @@ Curso **Bacharelado em Sistemas de Informação** e busco evoluir continuamente.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" title="Postman" />
 </p>
 
-## 📊 Atividade no GitHub
+## STATUS
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NatanLuz&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=1C1917&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" height="200" alt="streak graph" />
 </p>
 
-## 📫 Contato
+## Contato 📫
 
 <div align="center">
   <a href="mailto:natandaluz01@gmail.com" target="_blank">
@@ -66,4 +62,4 @@ Curso **Bacharelado em Sistemas de Informação** e busco evoluir continuamente.
   </a>
 </div>
 
-<p align="center">📍 Araranguá, Santa Catarina, Brasil</p>
+<p align="center"> Araranguá, Santa Catarina, Brasil</p>
