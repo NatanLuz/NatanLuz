@@ -34,8 +34,6 @@ Tenho experiência prática em sistemas de **gestão, agendamento e controle fin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" title="Postman" />
 </p>
 
-## STATUS
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NatanLuz&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=1C1917&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" height="200" alt="streak graph" />
 </p>
