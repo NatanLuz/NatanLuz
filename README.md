@@ -1,52 +1,75 @@
-<h1 align="center">Olá, seja bem-vindo(a)!</h1>
-<h3 align="center">Natan da Luz Cândido</h3>
+<h1 align="center">Olá, eu sou o Natan da Luz Cândido 👋</h1>
+
+<h3 align="center">Desenvolvedor de Software | Backend PHP & Laravel | APIs REST</h3>
 
 <p align="center">
-Desenvolvedor de Software com foco em Backend, PHP e Laravel, com experiência prática no desenvolvimento de aplicações web, APIs REST, bancos de dados relacionais e implementação de regras de negócio.
+  <a href="https://portfolionatan.vercel.app">Portfólio</a> •
+  <a href="https://www.linkedin.com/in/natandaluz/">LinkedIn</a> •
+  <a href="mailto:natandaluz01@gmail.com">E-mail</a>
 </p>
 
-<p align="center">
-Atualmente atuo como Operador de Sistemas na Confidence Monitoramento 24 Horas, trabalhando com monitoramento de sistemas em ambiente de produção, suporte a usuários, troubleshooting e tratamento de incidentes. Essa experiência também fortalece minha capacidade de analisar problemas, acompanhar ocorrências e atuar na resolução de situações técnicas.
-</p>
+---
+
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor de software com foco em **backend**, trabalhando principalmente com **PHP, Laravel e MySQL** na construção de aplicações web, APIs REST e soluções orientadas a regras de negócio.
+
+Tenho experiência prática em sistemas de **gestão, agendamento e controle financeiro**, incluindo **projetos freelance para clientes reais** e aplicações autorais. No dia a dia aplico MVC, autenticação, autorização, validação de dados, modelagem relacional e integração entre frontend e backend.
+
+Atualmente atuo como **Operador de Sistemas na Confidence Monitoramento 24 Horas**, com monitoramento de ambientes de produção, suporte técnico, análise de incidentes e troubleshooting. Essa vivência fortalece minha capacidade de investigar problemas e resolvê-los com agilidade.
+
+Curso **Bacharelado em Sistemas de Informação** e busco evoluir continuamente.
+
+## 🌱 Foco atual
+
+- 🧱 Arquitetura de software
+- 🧪 Testes automatizados
+- 🔌 APIs e documentação
+- 🗄️ Banco de dados
+- ✅ Boas práticas de desenvolvimento backend
+
+## 🛠️ Tecnologias
 
 <p align="center">
-No desenvolvimento, trabalho principalmente com PHP, Laravel e MySQL, aplicando conceitos de arquitetura MVC, autenticação, autorização, validação de dados e modelagem de bancos relacionais. Também utilizo Git, GitHub, Docker, Postman e APIs REST.
-</p>
-<p align="center">
-Tenho experiência com React, JavaScript, HTML5 e CSS3 no desenvolvimento de interfaces e na integração entre frontend e backend. Minha experiência prática inclui projetos freelance para clientes reais e aplicações autorais, como sistemas de gestão, agendamento e controle financeiro.
-</p>
-<p align="center">
-Atualmente curso Bacharelado em Sistemas de Informação e sigo aprofundando meus conhecimentos em arquitetura de aplicações, testes, bancos de dados e boas práticas de engenharia de software.
-</p>
-<p align="center">
-<a href="https://portfolionatan.vercel.app">Portfólio</a> •
-<a href="https://www.linkedin.com/in/natandaluz/">LinkedIn</a>
-</p>
-<h3 align="center">Tecnologias</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" title="Postman" />
 </p>
-<div align="center">
-  <a href="mailto:natandaluz01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/natandaluz/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
-  </a>
-  </a>
-  <a href="https://portfolionatan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="portfolio link" />
-  </a>
-</div>
+
+## 📊 Atividade no GitHub
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NatanLuz&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=1C1917&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" height="200" alt="streak graph" />
 </p>
+
+## 📫 Contato
+
+<div align="center">
+  <a href="mailto:natandaluz01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/natandaluz/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolionatan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="Portfólio" />
+  </a>
+</div>
+
+<p align="center">📍 Araranguá, Santa Catarina, Brasil</p>
