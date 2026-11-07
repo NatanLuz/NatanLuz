@@ -16,15 +16,7 @@ Sou desenvolvedor de software **backend**, trabalhando com **PHP, Laravel e MySQ
 
 Tenho experiência prática em sistemas de **gestão, agendamento e controle financeiro**, incluindo **projetos freelance para clientes reais** e aplicações autorais. No dia a dia aplico MVC, autenticação, autorização, validação de dados, modelagem relacional e integração entre frontend e backend. Curso **Bacharelado em Sistemas de Informação** e busco evoluir continuamente.
 
-## 🌱 Foco atual
-
-- Arquitetura de software
-- Testes automatizados
-- APIs e documentação
-- Banco de dados
-- Boas práticas de desenvolvimento backend
-
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
