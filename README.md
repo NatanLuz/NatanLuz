@@ -1,6 +1,6 @@
 <h1 align="center">Olá me chamo Natan da Luz Cândido 👋</h1>
 
-<h3 align="center">Desenvolvedor de Software | Backend PHP & Laravel | APIs REST</h3>
+<h3 align="center">Desenvolvedor de Software | Backend PHP & Laravel | APIs </h3>
 
 ## Sobre mim 👨‍💻
 
