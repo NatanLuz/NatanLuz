@@ -38,8 +38,6 @@ Tenho experiência prática em sistemas de **gestão, agendamento e controle fin
   <img src="https://streak-stats.demolab.com?user=NatanLuz&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=1C1917&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" height="200" alt="streak graph" />
 </p>
 
-## Contato 📫
-
 <div align="center">
   <a href="mailto:natandaluz01@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
