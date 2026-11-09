@@ -41,4 +41,4 @@ Tenho experiência prática em sistemas de **gestão, agendamento e controle fin
   </a>
 </div>
 
-<p align="center"> Araranguá, Santa Catarina, Brasil</p>
+<p align="center"> Santa Catarina, Brasil</p>
