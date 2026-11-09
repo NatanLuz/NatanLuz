@@ -23,7 +23,6 @@ Tenho experiência prática em sistemas de **gestão, agendamento e controle fin
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" title="Postman" />
 </p>
 
 <p align="center">
