@@ -1,44 +1,85 @@
-<h1 align="center">Olá me chamo Natan da Luz Cândido 👋</h1>
+<h1 align="center">Olá, eu sou o Natan da Luz Cândido !</h1>
 
 <h3 align="center">Desenvolvedor de Software </h3>
 
-## Sobre mim 👨‍💻
-
-Sou desenvolvedor de software **backend**, trabalhando com **PHP, Laravel e MySQL** na construção de aplicações web, APIs e soluções orientadas a regras de negócio.
-
-Tenho experiência prática em sistemas de **gestão, agendamento e controle financeiro**, incluindo **projetos freelance para clientes reais** e aplicações autorais. No dia a dia aplico MVC, autenticação, autorização, validação de dados, modelagem relacional e integração entre frontend e backend. Curso **Bacharelado em Sistemas de Informação** e busco evoluir continuamente.
-
-## Tecnologias
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img width="12" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NatanLuz&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=1C1917&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" height="200" alt="streak graph" />
-</p>
-
-<div align="center">
   <a href="mailto:natandaluz01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/natandaluz/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
   <a href="https://portfolionatan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Portfólio" />
   </a>
-</div>
+</p>
 
-<p align="center"> Santa Catarina, Brasil</p>
+---
+
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor de software com foco em **backend**, especializado em **PHP e Laravel**. Tenho experiência prática na construção de aplicações web, APIs REST, modelagem de bancos de dados relacionais e implementação de regras de negócio. Meu dia a dia envolve arquitetura MVC, autenticação e autorização, validação de dados e integração entre backend e frontend. No frontend, atuo com React, JavaScript, HTML5 e CSS3.
+
+Atualmente curso **Bacharelado em Sistemas de Informação** e continuo me aprofundando em arquitetura de aplicações, APIs, bancos de dados, testes e boas práticas de engenharia de software.
+
+---
+
+## 🛠️ Tecnologias
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## Projetos em destaque
+
+### 💰 Meu Saldo Certo
+Sistema de gestão financeira pessoal desenvolvido com **Laravel e MySQL**.
+- Autenticação e controle de acesso
+- Modelagem de banco de dados relacional
+- Implementação de regras de negócio
+
+🔗 [Ver repositório](https://github.com/NatanLuz/meu-saldo-certo)
+
+### 🐾 PetSystem V3
+Sistema de gestão e agendamento para petshop, utilizado em uma **operação real** como projeto freelance.
+- Gestão de clientes e serviços
+- Agendamento de atendimentos
+- Regras de negócio aplicadas ao dia a dia do negócio
+
+🔗 [Ver repositório](https://github.com/NatanLuz/Petsystemv3)
+
+> 💡 Veja mais projetos no meu [portfólio](https://portfolionatan.vercel.app/).
+
+---
+
+## 📊 GitHub Status
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NatanLuz&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=1C1917&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" height="180" alt="Streak do GitHub" />
+</p>
+
+---
+
+## 📫 Vamos conversar?
+
+Estou aberto a oportunidades e novas conexões. Me encontre por aqui:
+
+- 📧 **E-mail:** [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/natandaluz](https://www.linkedin.com/in/natandaluz/)
