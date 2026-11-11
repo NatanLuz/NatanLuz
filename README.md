@@ -2,16 +2,6 @@
 
 <h3 align="center">Desenvolvedor de Software </h3>
 
-<p align="center">
-  <a href="mailto:natandaluz01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/natandaluz/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolionatan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Portfólio" />
-  </a>
 </p>
 
 ---
