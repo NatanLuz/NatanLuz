@@ -4,7 +4,7 @@
 
 </p>
 
-## About me 
+## About Me 
 
 I am a software developer focused on **backend development**, specializing in **PHP and Laravel**. I have practical experience building web applications, REST APIs, relational database modeling, and business rule implementation. My day-to-day work involves MVC architecture, authentication and authorization, data validation, and backend-to-frontend integration. On the frontend, I work with React, JavaScript, HTML5, and CSS3.
 
@@ -53,13 +53,13 @@ Pet shop management and scheduling system used in a **real operation** as a free
 
 🔗 [View repository](https://github.com/NatanLuz/Petsystemv3)
 
-## GitHub Stats 📊
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NatanLuz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&background=1C1917&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" height="180" alt="GitHub streak" />
 </p>
 
-## Let's connect? 📫
+## Let's connect?
 
 I am open to opportunities and new connections. You can find me here:
 
