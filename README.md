@@ -4,7 +4,7 @@
 
 </p>
 
-## About me 👨‍💻
+## About me 
 
 I am a software developer focused on **backend development**, specializing in **PHP and Laravel**. I have practical experience building web applications, REST APIs, relational database modeling, and business rule implementation. My day-to-day work involves MVC architecture, authentication and authorization, data validation, and backend-to-frontend integration. On the frontend, I work with React, JavaScript, HTML5, and CSS3.
 
