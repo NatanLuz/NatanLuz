@@ -10,6 +10,7 @@ I am a software developer focused on **backend development**, specializing in **
 
 I am currently pursuing a **Bachelor's degree in Information Systems** and continue deepening my knowledge of application architecture, APIs, databases, testing, and software engineering best practices.
 
+
 ## My Technologies 🛠️
 
 **Backend**
